@@ -1,0 +1,331 @@
+<?xml version="1.0" standalone="yes"?>
+<root>
+ <hometeam>
+  <11r></11r>
+  <11n></11n>
+  <11g></11g>
+  <12r></12r>
+  <12n></12n>
+  <12g></12g>
+  <13r>3</13r>
+  <13n>Utvik</13n>
+  <13g>C:\something\something.png</13g>
+  <14r></14r>
+  <14n></14n>
+  <14g></14g>
+  <15r>6</15r>
+  <15n>Furebotn</15n>
+  <15g>C:\something\something.png</15g>
+  <16r></16r>
+  <16n></16n>
+  <16g></16g>
+  <21r></21r>
+  <21n></21n>
+  <21g></21g>
+  <22r></22r>
+  <22n></22n>
+  <22g></22g>
+  <23r></23r>
+  <23n></23n>
+  <23g></23g>
+  <24r></24r>
+  <24n></24n>
+  <24g></24g>
+  <25r></25r>
+  <25n></25n>
+  <25g></25g>
+  <26r></26r>
+  <26n></26n>
+  <26g></26g>
+  <31r></31r>
+  <31n></31n>
+  <31g></31g>
+  <32r></32r>
+  <32n></32n>
+  <32g></32g>
+  <33r>15</33r>
+  <33n>Steiring</33n>
+  <33g>C:\something\something.png</33g>
+  <34r></34r>
+  <34n></34n>
+  <34g></34g>
+  <35r>7</35r>
+  <35n>Schulze</35n>
+  <35g>C:\something\something.png</35g>
+  <36r></36r>
+  <36n></36n>
+  <36g></36g>
+  <41r></41r>
+  <41n></41n>
+  <41g></41g>
+  <42r></42r>
+  <42n></42n>
+  <42g></42g>
+  <43r></43r>
+  <43n></43n>
+  <43g></43g>
+  <44r></44r>
+  <44n></44n>
+  <44g></44g>
+  <45r>27</45r>
+  <45n>Birkelund</45n>
+  <45g>C:\something\something.png</45g>
+  <46r></46r>
+  <46n></46n>
+  <46g></46g>
+  <51r></51r>
+  <51n></51n>
+  <51g></51g>
+  <52r></52r>
+  <52n></52n>
+  <52g></52g>
+  <53r>17</53r>
+  <53n>Psyché</53n>
+  <53g>C:\something\something.png</53g>
+  <54r></54r>
+  <54n></54n>
+  <54g></54g>
+  <55r>4</55r>
+  <55n>Nwakali</55n>
+  <55g>C:\something\something.png</55g>
+  <56r></56r>
+  <56n></56n>
+  <56g></56g>
+  <61r></61r>
+  <61n></61n>
+  <61g></61g>
+  <62r></62r>
+  <62n></62n>
+  <62g></62g>
+  <63r></63r>
+  <63n></63n>
+  <63g></63g>
+  <64r></64r>
+  <64n></64n>
+  <64g></64g>
+  <65r></65r>
+  <65n></65n>
+  <65g></65g>
+  <66r></66r>
+  <66n></66n>
+  <66g></66g>
+  <h1nr>1</h1nr>
+  <h1lastname>Dyngeland</h1lastname>
+  <h1full>Mathias Dyngeland</h1full>
+  <h2nr>3</h2nr>
+  <h2lastname>Utvik</h2lastname>
+  <h2full>Bjørn Inge Utvik</h2full>
+  <h3nr>15</h3nr>
+  <h3lastname>Steiring</h3lastname>
+  <h3full>Per-Magnus Steiring</h3full>
+  <h4nr>17</h4nr>
+  <h4lastname>Psyché</h4lastname>
+  <h4full>Christophe Psyché</h4full>
+  <h5nr>2</h5nr>
+  <h5lastname>Teniste</h5lastname>
+  <h5full>Taijo Teniste</h5full>
+  <h6nr>6</h6nr>
+  <h6lastname>Furebotn</h6lastname>
+  <h6full>Henrik Furebotn</h6full>
+  <h7nr>7</h7nr>
+  <h7lastname>Schulze</h7lastname>
+  <h7full>Eirik Schulze</h7full>
+  <h8nr>27</h8nr>
+  <h8lastname>Birkelund</h8lastname>
+  <h8full>Eirik Birkelund</h8full>
+  <h9nr>4</h9nr>
+  <h9lastname>Nwakali</h9lastname>
+  <h9full>Chidiebere Nwakali</h9full>
+  <h10nr>10</h10nr>
+  <h10lastname>Koomson</h10lastname>
+  <h10full>Gilbert Koomson</h10full>
+  <h11nr>18</h11nr>
+  <h11lastname>Bye</h11lastname>
+  <h11full>Bendik Bye</h11full>
+  <h12nr>12</h12nr>
+  <h12lastname>Omenås</h12lastname>
+  <h12full>Tarjei Omenås</h12full>
+  <h13nr>31</h13nr>
+  <h13lastname>Fredriksen</h13lastname>
+  <h13full>Ulrik Fredriksen</h13full>
+  <h14nr>5</h14nr>
+  <h14lastname>Grodås</h14lastname>
+  <h14full>Victor Grodås</h14full>
+  <h15nr>24</h15nr>
+  <h15lastname>Skaasheim</h15lastname>
+  <h15full>Eirik Skaasheim</h15full>
+  <h16nr>34</h16nr>
+  <h16lastname>Brekkhus</h16lastname>
+  <h16full>Simen Brekkhus</h16full>
+  <h17nr>28</h17nr>
+  <h17lastname>Hove</h17lastname>
+  <h17full>Johan Hove</h17full>
+  <h18nr>8</h18nr>
+  <h18lastname>Flo</h18lastname>
+  <h18full>Fredrik Flo</h18full>
+ </hometeam>
+ <awayteam>
+  <11r></11r>
+  <11n></11n>
+  <11g></11g>
+  <12r></12r>
+  <12n></12n>
+  <12g></12g>
+  <13r>2</13r>
+  <13n>Haakenstad</13n>
+  <13g>C:\something\something.png</13g>
+  <14r></14r>
+  <14n></14n>
+  <14g></14g>
+  <15r>11</15r>
+  <15n>Knudtzon</15n>
+  <15g>C:\something\something.png</15g>
+  <16r></16r>
+  <16n></16n>
+  <16g></16g>
+  <21r></21r>
+  <21n></21n>
+  <21g></21g>
+  <22r></22r>
+  <22n></22n>
+  <22g></22g>
+  <23r></23r>
+  <23n></23n>
+  <23g></23g>
+  <24r></24r>
+  <24n></24n>
+  <24g></24g>
+  <25r></25r>
+  <25n></25n>
+  <25g></25g>
+  <26r></26r>
+  <26n></26n>
+  <26g></26g>
+  <31r></31r>
+  <31n></31n>
+  <31g></31g>
+  <32r></32r>
+  <32n></32n>
+  <32g></32g>
+  <33r>4</33r>
+  <33n>Amundsen</33n>
+  <33g>C:\something\something.png</33g>
+  <34r></34r>
+  <34n></34n>
+  <34g></34g>
+  <35r>6</35r>
+  <35n>Mathew</35n>
+  <35g>C:\something\something.png</35g>
+  <36r></36r>
+  <36n></36n>
+  <36g></36g>
+  <41r></41r>
+  <41n></41n>
+  <41g></41g>
+  <42r></42r>
+  <42n></42n>
+  <42g></42g>
+  <43r></43r>
+  <43n></43n>
+  <43g></43g>
+  <44r></44r>
+  <44n></44n>
+  <44g></44g>
+  <45r></45r>
+  <45n></45n>
+  <45g></45g>
+  <46r></46r>
+  <46n></46n>
+  <46g></46g>
+  <51r></51r>
+  <51n></51n>
+  <51g></51g>
+  <52r></52r>
+  <52n></52n>
+  <52g></52g>
+  <53r>13</53r>
+  <53n>Kippe</53n>
+  <53g>C:\something\something.png</53g>
+  <54r></54r>
+  <54n></54n>
+  <54g></54g>
+  <55r>14</55r>
+  <55n>Krogstad</55n>
+  <55g>C:\something\something.png</55g>
+  <56r></56r>
+  <56n></56n>
+  <56g></56g>
+  <61r></61r>
+  <61n></61n>
+  <61g></61g>
+  <62r></62r>
+  <62n></62n>
+  <62g></62g>
+  <63r></63r>
+  <63n></63n>
+  <63g></63g>
+  <64r></64r>
+  <64n></64n>
+  <64g></64g>
+  <65r></65r>
+  <65n></65n>
+  <65g></65g>
+  <66r></66r>
+  <66n></66n>
+  <66g></66g>
+  <a1nr>77</a1nr>
+  <a1lastname>Origi</a1lastname>
+  <a1full>Arnold Origi</a1full>
+  <a2nr>2</a2nr>
+  <a2lastname>Haakenstad</a2lastname>
+  <a2full>Mats Haakenstad</a2full>
+  <a3nr>4</a3nr>
+  <a3lastname>Amundsen</a3lastname>
+  <a3full>Marius Amundsen</a3full>
+  <a4nr>13</a4nr>
+  <a4lastname>Kippe</a4lastname>
+  <a4full>Frode Kippe</a4full>
+  <a5nr>3</a5nr>
+  <a5lastname>Kind Mikalsen</a5lastname>
+  <a5full>Simen Kind Mikalsen</a5full>
+  <a6nr>11</a6nr>
+  <a6lastname>Knudtzon</a6lastname>
+  <a6full>Erling Knudtzon</a6full>
+  <a7nr>6</a7nr>
+  <a7lastname>Mathew</a7lastname>
+  <a7full>Ifeanyi Mathew</a7full>
+  <a8nr>14</a8nr>
+  <a8lastname>Krogstad</a8lastname>
+  <a8full>Fredrik Krogstad</a8full>
+  <a9nr>5</a9nr>
+  <a9lastname>Rafn</a9lastname>
+  <a9full>Simen Rafn</a9full>
+  <a10nr>7</a10nr>
+  <a10lastname>Malec</a10lastname>
+  <a10full>Tomáš Malec</a10full>
+  <a11nr>9</a11nr>
+  <a11lastname>Ajeti</a11lastname>
+  <a11full>Bajram Ajeti</a11full>
+  <a12nr>1</a12nr>
+  <a12lastname>Fernandes</a12lastname>
+  <a12full>Daniel Fernandes</a12full>
+  <a13nr>22</a13nr>
+  <a13lastname>Antonijevic</a13lastname>
+  <a13full>Stefan Antonijevic</a13full>
+  <a14nr>33</a14nr>
+  <a14lastname>Melgalvis</a14lastname>
+  <a14full>Aleksander Melgalvis</a14full>
+  <a15nr>15</a15nr>
+  <a15lastname>Brenden</a15lastname>
+  <a15full>Erik Brenden</a15full>
+  <a16nr>18</a16nr>
+  <a16lastname>Innocent</a16lastname>
+  <a16full>Bonke Innocent</a16full>
+  <a17nr>23</a17nr>
+  <a17lastname>Udoji</a17lastname>
+  <a17full>Chigozie Udoji</a17full>
+  <a18nr>27</a18nr>
+  <a18lastname>Skoda</a18lastname>
+  <a18full>Michal Skoda</a18full>
+ </awayteam>
+</root>

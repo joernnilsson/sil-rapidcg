@@ -1,0 +1,1032 @@
+<?xml version="1.0" standalone="yes"?>
+<BinList>
+  <ProjectInfo>
+    <ProjectFileVersion>1.5</ProjectFileVersion>
+    <HideDataPanel>false</HideDataPanel>
+    <HideActionPanel>false</HideActionPanel>
+    <DataPanelSize>482</DataPanelSize>
+    <ActionPanelSize>212</ActionPanelSize>
+    <DataListenOn>true</DataListenOn>
+    <RunClocksOn>true</RunClocksOn>
+    <AutoPlayOn>false</AutoPlayOn>
+    <AutoPlayTimerFloat>4</AutoPlayTimerFloat>
+    <ContentSize>1</ContentSize>
+    <LiveOutput1>true</LiveOutput1>
+    <RenderAll1>false</RenderAll1>
+    <ShowTagNames>false</ShowTagNames>
+    <ShowTagGrid>true</ShowTagGrid>
+    <HideContentPanel>false</HideContentPanel>
+    <HideEditPanel>false</HideEditPanel>
+    <ContentPanelSize>631</ContentPanelSize>
+    <EditPanelSize>761</EditPanelSize>
+    <DataPanelTab>tabTimers</DataPanelTab>
+    <DataFileToDisplay />
+    <DataTableToDisplay />
+  </ProjectInfo>
+  <ClocksList>
+    <ClockNumber>0</ClockNumber>
+    <ClockFormat>h:mm</ClockFormat>
+    <ClockOffset>0</ClockOffset>
+  </ClocksList>
+  <ClocksList>
+    <ClockNumber>1</ClockNumber>
+    <ClockFormat>h:mm</ClockFormat>
+    <ClockOffset>0</ClockOffset>
+  </ClocksList>
+  <ClocksList>
+    <ClockNumber>2</ClockNumber>
+    <ClockFormat>h:mm</ClockFormat>
+    <ClockOffset>0</ClockOffset>
+  </ClocksList>
+  <TimersList>
+    <TimerNumber>0</TimerNumber>
+    <TimerFormat>m:ss</TimerFormat>
+    <TimerStart>PT5M</TimerStart>
+    <TimerEnd>PT0S</TimerEnd>
+    <TimerEndAction>Stop</TimerEndAction>
+  </TimersList>
+  <TimersList>
+    <TimerNumber>1</TimerNumber>
+    <TimerFormat>m:ss</TimerFormat>
+    <TimerStart>PT1M</TimerStart>
+    <TimerEnd>PT0S</TimerEnd>
+    <TimerEndAction>Stop</TimerEndAction>
+  </TimersList>
+  <TimersList>
+    <TimerNumber>2</TimerNumber>
+    <TimerFormat>m:ss</TimerFormat>
+    <TimerStart>PT0S</TimerStart>
+    <TimerEnd>PT45M</TimerEnd>
+    <TimerEndAction>Stop</TimerEndAction>
+  </TimersList>
+  <TimersList>
+    <TimerNumber>3</TimerNumber>
+    <TimerFormat>m:ss</TimerFormat>
+    <TimerStart>PT45M</TimerStart>
+    <TimerEnd>PT1H30M</TimerEnd>
+    <TimerEndAction>Stop</TimerEndAction>
+  </TimersList>
+  <DatesList>
+    <DateNumber>0</DateNumber>
+    <DateFormat>dd/MM/yy</DateFormat>
+    <DateSeparator>/</DateSeparator>
+  </DatesList>
+  <DatesList>
+    <DateNumber>1</DateNumber>
+    <DateFormat>M/d/yy</DateFormat>
+    <DateSeparator>/</DateSeparator>
+  </DatesList>
+  <DatesList>
+    <DateNumber>2</DateNumber>
+    <DateFormat>M/d/yy</DateFormat>
+    <DateSeparator>/</DateSeparator>
+  </DatesList>
+  <WeatherZips>
+    <ZipItem>01862-North Billerica, MA</ZipItem>
+  </WeatherZips>
+  <WeatherZipList>
+    <ZipCodeItem>01862</ZipCodeItem>
+    <AutoPlayTimer>8</AutoPlayTimer>
+    <AutoPlayOn>false</AutoPlayOn>
+  </WeatherZipList>
+  <DaktronicsList>
+    <SportName>(none)</SportName>
+    <ComPort>COM1</ComPort>
+    <LastDataString />
+    <OpenPort>false</OpenPort>
+  </DaktronicsList>
+  <ButtonList>
+    <ButtonNumber>4</ButtonNumber>
+    <CGFileName>sogndal - hønefoss</CGFileName>
+    <TagName>Awayscore</TagName>
+    <Caption>+ 1</Caption>
+    <Value>1</Value>
+    <AddValue>1</AddValue>
+    <UseAllFiles>true</UseAllFiles>
+    <TagIsGraphic>false</TagIsGraphic>
+    <ColorNameHeader>Red</ColorNameHeader>
+  </ButtonList>
+  <ButtonList>
+    <ButtonNumber>5</ButtonNumber>
+    <CGFileName>sogndal - hønefoss</CGFileName>
+    <TagName>Awayscore</TagName>
+    <Caption>- 1</Caption>
+    <Value>1</Value>
+    <AddValue>-1</AddValue>
+    <UseAllFiles>true</UseAllFiles>
+    <TagIsGraphic>false</TagIsGraphic>
+    <ColorNameHeader>Red</ColorNameHeader>
+  </ButtonList>
+  <ButtonList>
+    <ButtonNumber>6</ButtonNumber>
+    <CGFileName>sogndal - hønefoss</CGFileName>
+    <TagName>Homescore</TagName>
+    <Caption>- 1</Caption>
+    <Value>1</Value>
+    <AddValue>-1</AddValue>
+    <UseAllFiles>true</UseAllFiles>
+    <TagIsGraphic>false</TagIsGraphic>
+    <ColorNameHeader>Green</ColorNameHeader>
+  </ButtonList>
+  <ButtonList>
+    <ButtonNumber>7</ButtonNumber>
+    <CGFileName>sogndal - hønefoss</CGFileName>
+    <TagName>Homescore</TagName>
+    <Caption>+ 1</Caption>
+    <Value>1</Value>
+    <AddValue>1</AddValue>
+    <UseAllFiles>true</UseAllFiles>
+    <TagIsGraphic>false</TagIsGraphic>
+    <ColorNameHeader>Green</ColorNameHeader>
+  </ButtonList>
+  <ButtonList>
+    <ButtonNumber>8</ButtonNumber>
+    <CGFileName>gult kort</CGFileName>
+    <TagName>Spelarnamn</TagName>
+    <Caption>Kristoffer Nesse</Caption>
+    <Value>Kristoffer Nesse</Value>
+    <AddValue>0</AddValue>
+    <UseAllFiles>true</UseAllFiles>
+    <TagIsGraphic>false</TagIsGraphic>
+    <ColorNameHeader>DarkViolet</ColorNameHeader>
+  </ButtonList>
+  <ButtonList>
+    <ButtonNumber>9</ButtonNumber>
+    <CGFileName>gult kort</CGFileName>
+    <TagName>Spelarnamn</TagName>
+    <Caption>Hannu Patronen</Caption>
+    <Value>Hannu Patronen</Value>
+    <AddValue>0</AddValue>
+    <UseAllFiles>true</UseAllFiles>
+    <TagIsGraphic>false</TagIsGraphic>
+    <ColorNameHeader>DarkViolet</ColorNameHeader>
+  </ButtonList>
+  <ButtonList>
+    <ButtonNumber>10</ButtonNumber>
+    <CGFileName>gult kort</CGFileName>
+    <TagName>Spelarnamn</TagName>
+    <Caption>Ulrik Flo</Caption>
+    <Value>Ulrik Flo</Value>
+    <AddValue>0</AddValue>
+    <UseAllFiles>true</UseAllFiles>
+    <TagIsGraphic>false</TagIsGraphic>
+    <ColorNameHeader>DarkViolet</ColorNameHeader>
+  </ButtonList>
+  <ButtonList>
+    <ButtonNumber>11</ButtonNumber>
+    <CGFileName>gult kort</CGFileName>
+    <TagName>Spelarnamn</TagName>
+    <Caption>Ørjan Hopen</Caption>
+    <Value>Ørjan Hopen</Value>
+    <AddValue>0</AddValue>
+    <UseAllFiles>true</UseAllFiles>
+    <TagIsGraphic>false</TagIsGraphic>
+    <ColorNameHeader>DarkViolet</ColorNameHeader>
+  </ButtonList>
+  <ButtonList>
+    <ButtonNumber>12</ButtonNumber>
+    <CGFileName>gult kort</CGFileName>
+    <TagName>Spelarnamn</TagName>
+    <Caption>Henrik Furebotn</Caption>
+    <Value>Henrik Furebotn</Value>
+    <AddValue>0</AddValue>
+    <UseAllFiles>true</UseAllFiles>
+    <TagIsGraphic>false</TagIsGraphic>
+    <ColorNameHeader>DarkViolet</ColorNameHeader>
+  </ButtonList>
+  <ButtonList>
+    <ButtonNumber>13</ButtonNumber>
+    <CGFileName>gult kort</CGFileName>
+    <TagName>Spelarnamn</TagName>
+    <Caption>Taijo Teniste</Caption>
+    <Value>Taijo Teniste</Value>
+    <AddValue>0</AddValue>
+    <UseAllFiles>true</UseAllFiles>
+    <TagIsGraphic>false</TagIsGraphic>
+    <ColorNameHeader>DarkViolet</ColorNameHeader>
+  </ButtonList>
+  <ButtonList>
+    <ButtonNumber>14</ButtonNumber>
+    <CGFileName>gult kort</CGFileName>
+    <TagName>Spelarnamn</TagName>
+    <Caption>Tonny Brochmann</Caption>
+    <Value>Tonny Brochmann</Value>
+    <AddValue>0</AddValue>
+    <UseAllFiles>true</UseAllFiles>
+    <TagIsGraphic>false</TagIsGraphic>
+    <ColorNameHeader>DarkViolet</ColorNameHeader>
+  </ButtonList>
+  <ButtonList>
+    <ButtonNumber>15</ButtonNumber>
+    <CGFileName>gult kort</CGFileName>
+    <TagName>Spelarnamn</TagName>
+    <Caption>Gustav Valsvik</Caption>
+    <Value>Gustav Valsvik</Value>
+    <AddValue>0</AddValue>
+    <UseAllFiles>true</UseAllFiles>
+    <TagIsGraphic>false</TagIsGraphic>
+    <ColorNameHeader>DarkViolet</ColorNameHeader>
+  </ButtonList>
+  <ButtonList>
+    <ButtonNumber>16</ButtonNumber>
+    <CGFileName>gult kort</CGFileName>
+    <TagName>Spelarnamn</TagName>
+    <Caption>Stian Dyngeland</Caption>
+    <Value>Stian Dyngeland</Value>
+    <AddValue>0</AddValue>
+    <UseAllFiles>true</UseAllFiles>
+    <TagIsGraphic>false</TagIsGraphic>
+    <ColorNameHeader>DarkViolet</ColorNameHeader>
+  </ButtonList>
+  <ButtonList>
+    <ButtonNumber>17</ButtonNumber>
+    <CGFileName>gult kort</CGFileName>
+    <TagName>Spelarnamn</TagName>
+    <Caption>Ruben Holsæter</Caption>
+    <Value>Ruben Holsæter</Value>
+    <AddValue>0</AddValue>
+    <UseAllFiles>true</UseAllFiles>
+    <TagIsGraphic>false</TagIsGraphic>
+    <ColorNameHeader>DarkViolet</ColorNameHeader>
+  </ButtonList>
+  <ButtonList>
+    <ButtonNumber>18</ButtonNumber>
+    <CGFileName>gult kort</CGFileName>
+    <TagName>Spelarnamn</TagName>
+    <Caption>Rosenborg</Caption>
+    <Value>Rosenborg</Value>
+    <AddValue>0</AddValue>
+    <UseAllFiles>true</UseAllFiles>
+    <TagIsGraphic>false</TagIsGraphic>
+    <ColorNameHeader>Red</ColorNameHeader>
+  </ButtonList>
+  <ButtonList>
+    <ButtonNumber>19</ButtonNumber>
+    <CGFileName>sogndal - hønefoss</CGFileName>
+    <TagName>Homescore</TagName>
+    <Caption>0</Caption>
+    <Value>0</Value>
+    <AddValue>0</AddValue>
+    <UseAllFiles>true</UseAllFiles>
+    <TagIsGraphic>false</TagIsGraphic>
+    <ColorNameHeader>Green</ColorNameHeader>
+  </ButtonList>
+  <ButtonList>
+    <ButtonNumber>20</ButtonNumber>
+    <CGFileName>sogndal - hønefoss</CGFileName>
+    <TagName>Awayscore</TagName>
+    <Caption>0</Caption>
+    <Value>0</Value>
+    <AddValue>0</AddValue>
+    <UseAllFiles>true</UseAllFiles>
+    <TagIsGraphic>false</TagIsGraphic>
+    <ColorNameHeader>Red</ColorNameHeader>
+  </ButtonList>
+  <ButtonList>
+    <ButtonNumber>21</ButtonNumber>
+    <CGFileName>gult kort</CGFileName>
+    <TagName>Spelarnamn</TagName>
+    <Caption>Synne Haga</Caption>
+    <Value>Synne Haga</Value>
+    <AddValue>0</AddValue>
+    <UseAllFiles>true</UseAllFiles>
+    <TagIsGraphic>false</TagIsGraphic>
+    <ColorNameHeader>Blue</ColorNameHeader>
+  </ButtonList>
+  <ButtonList>
+    <ButtonNumber>22</ButtonNumber>
+    <CGFileName>raudt kort</CGFileName>
+    <TagName>Spelarnamn</TagName>
+    <Caption>Mahatma Otoo</Caption>
+    <Value>Mahatma Otoo</Value>
+    <AddValue>0</AddValue>
+    <UseAllFiles>true</UseAllFiles>
+    <TagIsGraphic>false</TagIsGraphic>
+    <ColorNameHeader>Purple</ColorNameHeader>
+  </ButtonList>
+  <ButtonList>
+    <ButtonNumber>23</ButtonNumber>
+    <CGFileName>raudt kort</CGFileName>
+    <TagName>Spelarnamn</TagName>
+    <Caption>Gilbert Koomson</Caption>
+    <Value>Gilbert Koomson</Value>
+    <AddValue>0</AddValue>
+    <UseAllFiles>true</UseAllFiles>
+    <TagIsGraphic>false</TagIsGraphic>
+    <ColorNameHeader>Purple</ColorNameHeader>
+  </ButtonList>
+  <ButtonList>
+    <ButtonNumber>24</ButtonNumber>
+    <CGFileName>raudt kort</CGFileName>
+    <TagName>Spelarnamn</TagName>
+    <Caption>Magnus Stamnestrø</Caption>
+    <Value>Magnus Stamnestrø</Value>
+    <AddValue>0</AddValue>
+    <UseAllFiles>true</UseAllFiles>
+    <TagIsGraphic>false</TagIsGraphic>
+    <ColorNameHeader>Purple</ColorNameHeader>
+  </ButtonList>
+  <ButtonList>
+    <ButtonNumber>25</ButtonNumber>
+    <CGFileName>stillingstor</CGFileName>
+    <TagName>Homescore</TagName>
+    <Caption>45:00</Caption>
+    <Value>45:00</Value>
+    <AddValue>0</AddValue>
+    <UseAllFiles>false</UseAllFiles>
+    <TagIsGraphic>false</TagIsGraphic>
+    <ColorNameHeader>Blue</ColorNameHeader>
+  </ButtonList>
+  <ButtonList>
+    <ButtonNumber>26</ButtonNumber>
+    <CGFileName>stillingstor</CGFileName>
+    <TagName>AwayLogo</TagName>
+    <Caption />
+    <Value>C:\Documents and Settings\Broadcast Pix\My Documents\My Pictures\stabaek_logo_512.png</Value>
+    <AddValue>0</AddValue>
+    <UseAllFiles>true</UseAllFiles>
+    <TagIsGraphic>true</TagIsGraphic>
+    <ColorNameHeader>Blue</ColorNameHeader>
+  </ButtonList>
+  <ButtonList>
+    <ButtonNumber>27</ButtonNumber>
+    <CGFileName>stillingstor</CGFileName>
+    <TagName>AwayLogo</TagName>
+    <Caption />
+    <Value>C:\Documents and Settings\Broadcast Pix\My Documents\My Pictures\godset-stromsgodset-logo.png</Value>
+    <AddValue>0</AddValue>
+    <UseAllFiles>true</UseAllFiles>
+    <TagIsGraphic>true</TagIsGraphic>
+    <ColorNameHeader>Blue</ColorNameHeader>
+  </ButtonList>
+  <ButtonList>
+    <ButtonNumber>28</ButtonNumber>
+    <CGFileName>stillingstor</CGFileName>
+    <TagName>AwayLogo</TagName>
+    <Caption />
+    <Value>C:\Documents and Settings\Broadcast Pix\My Documents\My Pictures\RBK_u_pos.png</Value>
+    <AddValue>0</AddValue>
+    <UseAllFiles>true</UseAllFiles>
+    <TagIsGraphic>true</TagIsGraphic>
+    <ColorNameHeader>Blue</ColorNameHeader>
+  </ButtonList>
+  <ButtonList>
+    <ButtonNumber>29</ButtonNumber>
+    <CGFileName>stillingstor</CGFileName>
+    <TagName>AwayLogo</TagName>
+    <Caption />
+    <Value>C:\Documents and Settings\Broadcast Pix\My Documents\My Pictures\15269.png</Value>
+    <AddValue>0</AddValue>
+    <UseAllFiles>true</UseAllFiles>
+    <TagIsGraphic>true</TagIsGraphic>
+    <ColorNameHeader>Blue</ColorNameHeader>
+  </ButtonList>
+  <ButtonList>
+    <ButtonNumber>30</ButtonNumber>
+    <CGFileName>stillingstor</CGFileName>
+    <TagName>AwayLogo</TagName>
+    <Caption />
+    <Value>C:\Documents and Settings\Broadcast Pix\My Documents\My Pictures\Lillestrøm_SK.png</Value>
+    <AddValue>0</AddValue>
+    <UseAllFiles>true</UseAllFiles>
+    <TagIsGraphic>true</TagIsGraphic>
+    <ColorNameHeader>Blue</ColorNameHeader>
+  </ButtonList>
+  <ButtonList>
+    <ButtonNumber>31</ButtonNumber>
+    <CGFileName>stillingstor</CGFileName>
+    <TagName>AwayLogo</TagName>
+    <Caption />
+    <Value>C:\Documents and Settings\Broadcast Pix\My Documents\My Pictures\Molde_Fotball_Logo.svg.png</Value>
+    <AddValue>0</AddValue>
+    <UseAllFiles>true</UseAllFiles>
+    <TagIsGraphic>true</TagIsGraphic>
+    <ColorNameHeader>Blue</ColorNameHeader>
+  </ButtonList>
+  <ButtonList>
+    <ButtonNumber>32</ButtonNumber>
+    <CGFileName>stillingstor</CGFileName>
+    <TagName>AwayLogo</TagName>
+    <Caption />
+    <Value>C:\Documents and Settings\Broadcast Pix\My Documents\My Pictures\SK_Brann.png</Value>
+    <AddValue>0</AddValue>
+    <UseAllFiles>true</UseAllFiles>
+    <TagIsGraphic>true</TagIsGraphic>
+    <ColorNameHeader>Blue</ColorNameHeader>
+  </ButtonList>
+  <ButtonList>
+    <ButtonNumber>33</ButtonNumber>
+    <CGFileName>stillingstor</CGFileName>
+    <TagName>AwayLogo</TagName>
+    <Caption />
+    <Value>C:\Documents and Settings\Broadcast Pix\My Documents\My Pictures\logo.png</Value>
+    <AddValue>0</AddValue>
+    <UseAllFiles>true</UseAllFiles>
+    <TagIsGraphic>true</TagIsGraphic>
+    <ColorNameHeader>Blue</ColorNameHeader>
+  </ButtonList>
+  <ButtonList>
+    <ButtonNumber>34</ButtonNumber>
+    <CGFileName>velkommentilfosshaugane</CGFileName>
+    <TagName>AwayLogo</TagName>
+    <Caption />
+    <Value>C:\Documents and Settings\Broadcast Pix\My Documents\My Pictures\tromso-il-logo_k6i9e52ln2gu1htvm0ps0jqh9.png</Value>
+    <AddValue>0</AddValue>
+    <UseAllFiles>true</UseAllFiles>
+    <TagIsGraphic>true</TagIsGraphic>
+    <ColorNameHeader>Blue</ColorNameHeader>
+  </ButtonList>
+  <ButtonList>
+    <ButtonNumber>35</ButtonNumber>
+    <CGFileName>velkommentilfosshaugane</CGFileName>
+    <TagName>AwayLogo</TagName>
+    <Caption />
+    <Value>C:\Documents and Settings\Broadcast Pix\My Documents\My Pictures\Viking_Stavanger.png</Value>
+    <AddValue>0</AddValue>
+    <UseAllFiles>true</UseAllFiles>
+    <TagIsGraphic>true</TagIsGraphic>
+    <ColorNameHeader>Blue</ColorNameHeader>
+  </ButtonList>
+  <ButtonList>
+    <ButtonNumber>36</ButtonNumber>
+    <CGFileName>velkommentilfosshaugane</CGFileName>
+    <TagName>AwayLogo</TagName>
+    <Caption />
+    <Value>C:\Documents and Settings\Broadcast Pix\My Documents\My Pictures\Aalesunds_FK_logo.svg.png</Value>
+    <AddValue>0</AddValue>
+    <UseAllFiles>true</UseAllFiles>
+    <TagIsGraphic>true</TagIsGraphic>
+    <ColorNameHeader>Blue</ColorNameHeader>
+  </ButtonList>
+  <ButtonList>
+    <ButtonNumber>37</ButtonNumber>
+    <CGFileName>velkommentilfosshaugane</CGFileName>
+    <TagName>AwayLogo</TagName>
+    <Caption />
+    <Value>C:\Documents and Settings\Broadcast Pix\My Documents\My Pictures\haugesund.png</Value>
+    <AddValue>0</AddValue>
+    <UseAllFiles>true</UseAllFiles>
+    <TagIsGraphic>true</TagIsGraphic>
+    <ColorNameHeader>Blue</ColorNameHeader>
+  </ButtonList>
+  <ButtonList>
+    <ButtonNumber>38</ButtonNumber>
+    <CGFileName>velkommentilfosshaugane</CGFileName>
+    <TagName>AwayLogo</TagName>
+    <Caption />
+    <Value>C:\Documents and Settings\Broadcast Pix\My Documents\My Pictures\odd.png</Value>
+    <AddValue>0</AddValue>
+    <UseAllFiles>true</UseAllFiles>
+    <TagIsGraphic>true</TagIsGraphic>
+    <ColorNameHeader>Blue</ColorNameHeader>
+  </ButtonList>
+  <Content>
+    <ContentType>CG</ContentType>
+    <ContentXtn>.SCRIBE</ContentXtn>
+    <ContentAlias>stillingstor</ContentAlias>
+    <ContentFile>C:\Graphics\cg\Sogndal\Filer til RapidCG\stillingstor.SCRIBE</ContentFile>
+  </Content>
+  <Content>
+    <ContentType>CG</ContentType>
+    <ContentXtn>.scribe</ContentXtn>
+    <ContentAlias>Under kamp uten RSS</ContentAlias>
+    <ContentFile>C:\Graphics\cg\Sogndal\Filer til RapidCG\Under kamp uten RSS.scribe</ContentFile>
+  </Content>
+  <Content>
+    <ContentType>CG</ContentType>
+    <ContentXtn>.SCRIBE</ContentXtn>
+    <ContentAlias>velkommentilfosshaugane</ContentAlias>
+    <ContentFile>C:\Graphics\cg\Sogndal\Filer til RapidCG\velkommentilfosshaugane.SCRIBE</ContentFile>
+  </Content>
+  <Content>
+    <ContentType>CG</ContentType>
+    <ContentXtn>.SCRIBE</ContentXtn>
+    <ContentAlias>stor logo</ContentAlias>
+    <ContentFile>C:\Graphics\cg\Sogndal\Filer til RapidCG\stor logo.SCRIBE</ContentFile>
+  </Content>
+  <Content>
+    <ContentType>CG</ContentType>
+    <ContentXtn>.SCRIBE</ContentXtn>
+    <ContentAlias>GAMMEL motstander lagoppstilling</ContentAlias>
+    <ContentFile>C:\Graphics\cg\motstander lagoppstilling.SCRIBE</ContentFile>
+  </Content>
+  <Content>
+    <ContentType>CG</ContentType>
+    <ContentXtn>.SCRIBE</ContentXtn>
+    <ContentAlias>GAMMEL sogndal-lagoppstilling</ContentAlias>
+    <ContentFile>C:\Graphics\cg\sogndal-lagoppstilling.SCRIBE</ContentFile>
+  </Content>
+  <Content>
+    <ContentType>CG</ContentType>
+    <ContentXtn>.SCRIBE</ContentXtn>
+    <ContentAlias>tollefsen</ContentAlias>
+    <ContentFile>C:\Graphics\cg\Sogndal\Filer til RapidCG\tollefsen.SCRIBE</ContentFile>
+  </Content>
+  <Content>
+    <ContentType>CG</ContentType>
+    <ContentXtn>.SCRIBE</ContentXtn>
+    <ContentAlias>Lag Sogndal</ContentAlias>
+    <ContentFile>C:\Graphics\cg\sogndal-lagoppstilling-2017-tagtest.SCRIBE</ContentFile>
+  </Content>
+  <Content>
+    <ContentType>CG</ContentType>
+    <ContentXtn>.SCRIBE</ContentXtn>
+    <ContentAlias>motstander-lagoppstilling-2017-tagtest</ContentAlias>
+    <ContentFile>C:\Graphics\cg\motstander-lagoppstilling-2017-tagtest.SCRIBE</ContentFile>
+  </Content>
+  <TagLinks>
+    <FileName>stillingstor</FileName>
+    <TagNumber>0</TagNumber>
+    <TagName>Homescore</TagName>
+    <TagText>0</TagText>
+    <TagLink />
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>stillingstor</FileName>
+    <TagNumber>1</TagNumber>
+    <TagName>awayscore</TagName>
+    <TagText>0</TagText>
+    <TagLink />
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>stillingstor</FileName>
+    <TagNumber>2</TagNumber>
+    <TagName>AwayLogo</TagName>
+    <TagText>C:\Documents and Settings\Broadcast Pix\My Documents\My Pictures\stabaek_logo_512.png</TagText>
+    <TagLink />
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>Under kamp uten RSS</FileName>
+    <TagNumber>0</TagNumber>
+    <TagName>Homescore</TagName>
+    <TagText>0</TagText>
+    <TagLink />
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>Under kamp uten RSS</FileName>
+    <TagNumber>1</TagNumber>
+    <TagName>Klokka</TagName>
+    <TagText>0:00</TagText>
+    <TagLink>[-Timer3] Stopwatch1</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>Under kamp uten RSS</FileName>
+    <TagNumber>2</TagNumber>
+    <TagName>awayscore</TagName>
+    <TagText>0</TagText>
+    <TagLink />
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>Under kamp uten RSS</FileName>
+    <TagNumber>3</TagNumber>
+    <TagName>AwayLogo</TagName>
+    <TagText>C:\Documents and Settings\Broadcast Pix\My Documents\My Pictures\stabaek_logo_512.png</TagText>
+    <TagLink />
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>velkommentilfosshaugane</FileName>
+    <TagNumber>0</TagNumber>
+    <TagName>AwayLogo</TagName>
+    <TagText>C:\Documents and Settings\Broadcast Pix\My Documents\My Pictures\stabaek_logo_512.png</TagText>
+    <TagLink />
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>Lag Sogndal</FileName>
+    <TagNumber>0</TagNumber>
+    <TagName>backh-navn</TagName>
+    <TagText>navn</TagText>
+    <TagLink />
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>Lag Sogndal</FileName>
+    <TagNumber>1</TagNumber>
+    <TagName>backh-nr</TagName>
+    <TagText>2</TagText>
+    <TagLink />
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>Lag Sogndal</FileName>
+    <TagNumber>2</TagNumber>
+    <TagName>backv-navn</TagName>
+    <TagText>navn</TagText>
+    <TagLink />
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>Lag Sogndal</FileName>
+    <TagNumber>3</TagNumber>
+    <TagName>backv-nr</TagName>
+    <TagText>5</TagText>
+    <TagLink />
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>Lag Sogndal</FileName>
+    <TagNumber>4</TagNumber>
+    <TagName>keep-navn</TagName>
+    <TagText>Dyngeland</TagText>
+    <TagLink />
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>Lag Sogndal</FileName>
+    <TagNumber>5</TagNumber>
+    <TagName>keep-nr</TagName>
+    <TagText>1</TagText>
+    <TagLink />
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>Lag Sogndal</FileName>
+    <TagNumber>6</TagNumber>
+    <TagName>midtbh-navn</TagName>
+    <TagText>navn</TagText>
+    <TagLink />
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>Lag Sogndal</FileName>
+    <TagNumber>7</TagNumber>
+    <TagName>midtbh-nr</TagName>
+    <TagText>7</TagText>
+    <TagLink />
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>Lag Sogndal</FileName>
+    <TagNumber>8</TagNumber>
+    <TagName>midtbv-navn</TagName>
+    <TagText>navn</TagText>
+    <TagLink />
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>Lag Sogndal</FileName>
+    <TagNumber>9</TagNumber>
+    <TagName>midtbv-nr</TagName>
+    <TagText>8</TagText>
+    <TagLink />
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>Lag Sogndal</FileName>
+    <TagNumber>10</TagNumber>
+    <TagName>midtsth-nr</TagName>
+    <TagText>3</TagText>
+    <TagLink />
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>Lag Sogndal</FileName>
+    <TagNumber>11</TagNumber>
+    <TagName>midtstv-navn</TagName>
+    <TagText>navn</TagText>
+    <TagLink />
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>Lag Sogndal</FileName>
+    <TagNumber>12</TagNumber>
+    <TagName>midtstv-nr</TagName>
+    <TagText>4</TagText>
+    <TagLink />
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>Lag Sogndal</FileName>
+    <TagNumber>13</TagNumber>
+    <TagName>midtstv-nvn</TagName>
+    <TagText>navn</TagText>
+    <TagLink />
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>Lag Sogndal</FileName>
+    <TagNumber>14</TagNumber>
+    <TagName>spissh-navn</TagName>
+    <TagText>Batman</TagText>
+    <TagLink />
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>Lag Sogndal</FileName>
+    <TagNumber>15</TagNumber>
+    <TagName>spissh-nr</TagName>
+    <TagText>10</TagText>
+    <TagLink />
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>Lag Sogndal</FileName>
+    <TagNumber>16</TagNumber>
+    <TagName>spissv-navn</TagName>
+    <TagText>Robin</TagText>
+    <TagLink />
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>Lag Sogndal</FileName>
+    <TagNumber>17</TagNumber>
+    <TagName>spissv-nr</TagName>
+    <TagText>11</TagText>
+    <TagLink />
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>Lag Sogndal</FileName>
+    <TagNumber>18</TagNumber>
+    <TagName>vingh-navn</TagName>
+    <TagText>navn</TagText>
+    <TagLink />
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>Lag Sogndal</FileName>
+    <TagNumber>19</TagNumber>
+    <TagName>vingh-nr</TagName>
+    <TagText>6</TagText>
+    <TagLink />
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>Lag Sogndal</FileName>
+    <TagNumber>20</TagNumber>
+    <TagName>vingv-navn</TagName>
+    <TagText>navn</TagText>
+    <TagLink />
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>Lag Sogndal</FileName>
+    <TagNumber>21</TagNumber>
+    <TagName>vingv-nr</TagName>
+    <TagText>9</TagText>
+    <TagLink />
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>Lag Sogndal</FileName>
+    <TagNumber>22</TagNumber>
+    <TagName>logo</TagName>
+    <TagText>C:\Documents and Settings\Broadcast Pix\My Documents\My Pictures\Sogndal.psd</TagText>
+    <TagLink />
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>motstander-lagoppstilling-2017-tagtest</FileName>
+    <TagNumber>0</TagNumber>
+    <TagName>backh-navn</TagName>
+    <TagText>Dyngeland</TagText>
+    <TagLink />
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>motstander-lagoppstilling-2017-tagtest</FileName>
+    <TagNumber>1</TagNumber>
+    <TagName>backh-nr</TagName>
+    <TagText>1</TagText>
+    <TagLink />
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>motstander-lagoppstilling-2017-tagtest</FileName>
+    <TagNumber>2</TagNumber>
+    <TagName>backv-navn</TagName>
+    <TagText>Dyngeland</TagText>
+    <TagLink />
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>motstander-lagoppstilling-2017-tagtest</FileName>
+    <TagNumber>3</TagNumber>
+    <TagName>backv-nr</TagName>
+    <TagText>1</TagText>
+    <TagLink />
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>motstander-lagoppstilling-2017-tagtest</FileName>
+    <TagNumber>4</TagNumber>
+    <TagName>keep-navn</TagName>
+    <TagText>Dyngeland</TagText>
+    <TagLink />
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>motstander-lagoppstilling-2017-tagtest</FileName>
+    <TagNumber>5</TagNumber>
+    <TagName>keep-nr</TagName>
+    <TagText>1</TagText>
+    <TagLink />
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>motstander-lagoppstilling-2017-tagtest</FileName>
+    <TagNumber>6</TagNumber>
+    <TagName>midtbh-navn</TagName>
+    <TagText>Dyngeland</TagText>
+    <TagLink />
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>motstander-lagoppstilling-2017-tagtest</FileName>
+    <TagNumber>7</TagNumber>
+    <TagName>midtbh-nr</TagName>
+    <TagText>1</TagText>
+    <TagLink />
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>motstander-lagoppstilling-2017-tagtest</FileName>
+    <TagNumber>8</TagNumber>
+    <TagName>midtbv-navn</TagName>
+    <TagText>Dyngeland</TagText>
+    <TagLink />
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>motstander-lagoppstilling-2017-tagtest</FileName>
+    <TagNumber>9</TagNumber>
+    <TagName>midtbv-nr</TagName>
+    <TagText>1</TagText>
+    <TagLink />
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>motstander-lagoppstilling-2017-tagtest</FileName>
+    <TagNumber>10</TagNumber>
+    <TagName>midtsth-nr</TagName>
+    <TagText>1</TagText>
+    <TagLink />
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>motstander-lagoppstilling-2017-tagtest</FileName>
+    <TagNumber>11</TagNumber>
+    <TagName>midtstv-navn</TagName>
+    <TagText>Dyngeland</TagText>
+    <TagLink />
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>motstander-lagoppstilling-2017-tagtest</FileName>
+    <TagNumber>12</TagNumber>
+    <TagName>midtstv-nr</TagName>
+    <TagText>1</TagText>
+    <TagLink />
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>motstander-lagoppstilling-2017-tagtest</FileName>
+    <TagNumber>13</TagNumber>
+    <TagName>midtstv-nvn</TagName>
+    <TagText>Dyngeland</TagText>
+    <TagLink />
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>motstander-lagoppstilling-2017-tagtest</FileName>
+    <TagNumber>14</TagNumber>
+    <TagName>spissh-navn</TagName>
+    <TagText>Dyngeland</TagText>
+    <TagLink />
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>motstander-lagoppstilling-2017-tagtest</FileName>
+    <TagNumber>15</TagNumber>
+    <TagName>spissh-nr</TagName>
+    <TagText>1</TagText>
+    <TagLink />
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>motstander-lagoppstilling-2017-tagtest</FileName>
+    <TagNumber>16</TagNumber>
+    <TagName>spissv-navn</TagName>
+    <TagText>Dyngeland</TagText>
+    <TagLink />
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>motstander-lagoppstilling-2017-tagtest</FileName>
+    <TagNumber>17</TagNumber>
+    <TagName>spissv-nr</TagName>
+    <TagText>1</TagText>
+    <TagLink />
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>motstander-lagoppstilling-2017-tagtest</FileName>
+    <TagNumber>18</TagNumber>
+    <TagName>vingh-navn</TagName>
+    <TagText>Dyngeland</TagText>
+    <TagLink />
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>motstander-lagoppstilling-2017-tagtest</FileName>
+    <TagNumber>19</TagNumber>
+    <TagName>vingh-nr</TagName>
+    <TagText>1</TagText>
+    <TagLink />
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>motstander-lagoppstilling-2017-tagtest</FileName>
+    <TagNumber>20</TagNumber>
+    <TagName>vingv-navn</TagName>
+    <TagText>Dyngeland</TagText>
+    <TagLink />
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>motstander-lagoppstilling-2017-tagtest</FileName>
+    <TagNumber>21</TagNumber>
+    <TagName>vingv-nr</TagName>
+    <TagText>1</TagText>
+    <TagLink />
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>motstander-lagoppstilling-2017-tagtest</FileName>
+    <TagNumber>22</TagNumber>
+    <TagName>AwayLogo</TagName>
+    <TagText>C:\Documents and Settings\Broadcast Pix\My Documents\My Pictures\stabaek_logo_512.png</TagText>
+    <TagLink />
+    <Changed>false</Changed>
+  </TagLinks>
+  <RssState>
+    <AutoPlayTimer>2</AutoPlayTimer>
+    <AutoPlayOn>true</AutoPlayOn>
+  </RssState>
+  <RssUrlsList>
+    <RssURLs />
+    <Selected>true</Selected>
+    <ActiveItem>3</ActiveItem>
+  </RssUrlsList>
+  <RssItemsList>
+    <Title>Molde - Bodø/Glimt</Title>
+    <Date>0001-01-01T00:00:00+01:00</Date>
+    <Link>Unresolvable</Link>
+    <Description>2 - 1 H: Gulbrandsen ('12) Singh ('79)  B: Laajab ('49) </Description>
+  </RssItemsList>
+  <RssItemsList>
+    <Title>Liverpool - Everton</Title>
+    <Date>0001-01-01T00:00:00+01:00</Date>
+    <Link>Unresolvable</Link>
+    <Description>1 - 1 H: Gerrard ('65)  B: Jagielka ('90) </Description>
+  </RssItemsList>
+  <RssItemsList>
+    <Title>Sunderland - Swansea</Title>
+    <Date>0001-01-01T00:00:00+01:00</Date>
+    <Link>Unresolvable</Link>
+    <Description>0 - 0</Description>
+  </RssItemsList>
+  <RssItemsList>
+    <Title>Chelsea - Aston Villa</Title>
+    <Date>0001-01-01T00:00:00+01:00</Date>
+    <Link>Unresolvable</Link>
+    <Description>3 - 0 H: Oscar ('7) Diego Costa ('59) Willian ('79) </Description>
+  </RssItemsList>
+  <RssItemsList>
+    <Title>Crystal Palace - Leicester</Title>
+    <Date>0001-01-01T00:00:00+01:00</Date>
+    <Link>Unresolvable</Link>
+    <Description>2 - 0 H: Campbell ('51) Jedinak ('54) </Description>
+  </RssItemsList>
+  <RssItemsList>
+    <Title>Hull - Man. City</Title>
+    <Date>0001-01-01T00:00:00+01:00</Date>
+    <Link>Unresolvable</Link>
+    <Description>2 - 4</Description>
+  </RssItemsList>
+  <RssItemsList>
+    <Title>Man. United - West Ham</Title>
+    <Date>0001-01-01T00:00:00+01:00</Date>
+    <Link>Unresolvable</Link>
+    <Description>2 - 1 H: Rooney ('5) van Persie ('22)  B: Sakho ('37) </Description>
+  </RssItemsList>
+  <RssItemsList>
+    <Title>Southampton - QPR</Title>
+    <Date>0001-01-01T00:00:00+01:00</Date>
+    <Link>Unresolvable</Link>
+    <Description>2 - 1 H: Bertrand ('54) Pellè ('68)  B: Austin ('66) </Description>
+  </RssItemsList>
+  <RssItemsList>
+    <Title>Brentford - Leeds</Title>
+    <Date>0001-01-01T00:00:00+01:00</Date>
+    <Link>Unresolvable</Link>
+    <Description>2 - 0 H: Jota ('45) McCormack ('77) </Description>
+  </RssItemsList>
+</BinList>

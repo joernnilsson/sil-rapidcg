@@ -1,0 +1,3270 @@
+<BinList>
+  <ProjectInfo>
+    <ProjectFileVersion>1.5</ProjectFileVersion>
+    <HideDataPanel>false</HideDataPanel>
+    <HideActionPanel>false</HideActionPanel>
+    <DataPanelSize>482</DataPanelSize>
+    <ActionPanelSize>212</ActionPanelSize>
+    <DataListenOn>true</DataListenOn>
+    <RunClocksOn>true</RunClocksOn>
+    <AutoPlayOn>false</AutoPlayOn>
+    <AutoPlayTimerFloat>4</AutoPlayTimerFloat>
+    <ContentSize>1</ContentSize>
+    <LiveOutput1>true</LiveOutput1>
+    <RenderAll1>false</RenderAll1>
+    <ShowTagNames>false</ShowTagNames>
+    <ShowTagGrid>true</ShowTagGrid>
+    <HideContentPanel>false</HideContentPanel>
+    <HideEditPanel>false</HideEditPanel>
+    <ContentPanelSize>631</ContentPanelSize>
+    <EditPanelSize>761</EditPanelSize>
+    <DataPanelTab>tabTimers</DataPanelTab>
+    <DataFileToDisplay>C:\Graphics\stored content\speardata\data.xml</DataFileToDisplay>
+    <DataTableToDisplay>awayteam</DataTableToDisplay>
+  </ProjectInfo>
+  <ClocksList>
+    <ClockNumber>0</ClockNumber>
+    <ClockFormat>h:mm</ClockFormat>
+    <ClockOffset>0</ClockOffset>
+  </ClocksList>
+  <ClocksList>
+    <ClockNumber>1</ClockNumber>
+    <ClockFormat>h:mm</ClockFormat>
+    <ClockOffset>0</ClockOffset>
+  </ClocksList>
+  <ClocksList>
+    <ClockNumber>2</ClockNumber>
+    <ClockFormat>h:mm</ClockFormat>
+    <ClockOffset>0</ClockOffset>
+  </ClocksList>
+  <TimersList>
+    <TimerNumber>0</TimerNumber>
+    <TimerFormat>m:ss</TimerFormat>
+    <TimerStart>PT5M</TimerStart>
+    <TimerEnd>PT0S</TimerEnd>
+    <TimerEndAction>Stop</TimerEndAction>
+  </TimersList>
+  <TimersList>
+    <TimerNumber>1</TimerNumber>
+    <TimerFormat>m:ss</TimerFormat>
+    <TimerStart>PT1M</TimerStart>
+    <TimerEnd>PT0S</TimerEnd>
+    <TimerEndAction>Stop</TimerEndAction>
+  </TimersList>
+  <TimersList>
+    <TimerNumber>2</TimerNumber>
+    <TimerFormat>m:ss</TimerFormat>
+    <TimerStart>PT0S</TimerStart>
+    <TimerEnd>PT45M</TimerEnd>
+    <TimerEndAction>Stop</TimerEndAction>
+  </TimersList>
+  <TimersList>
+    <TimerNumber>3</TimerNumber>
+    <TimerFormat>m:ss</TimerFormat>
+    <TimerStart>PT45M</TimerStart>
+    <TimerEnd>PT1H30M</TimerEnd>
+    <TimerEndAction>Stop</TimerEndAction>
+  </TimersList>
+  <DatesList>
+    <DateNumber>0</DateNumber>
+    <DateFormat>dd/MM/yy</DateFormat>
+    <DateSeparator>/</DateSeparator>
+  </DatesList>
+  <DatesList>
+    <DateNumber>1</DateNumber>
+    <DateFormat>M/d/yy</DateFormat>
+    <DateSeparator>/</DateSeparator>
+  </DatesList>
+  <DatesList>
+    <DateNumber>2</DateNumber>
+    <DateFormat>M/d/yy</DateFormat>
+    <DateSeparator>/</DateSeparator>
+  </DatesList>
+  <WeatherZips>
+    <ZipItem>01862-North Billerica, MA</ZipItem>
+  </WeatherZips>
+  <WeatherZipList>
+    <ZipCodeItem>01862</ZipCodeItem>
+    <AutoPlayTimer>8</AutoPlayTimer>
+    <AutoPlayOn>false</AutoPlayOn>
+  </WeatherZipList>
+  <DaktronicsList>
+    <SportName>(none)</SportName>
+    <ComPort>COM1</ComPort>
+    <LastDataString />
+    <OpenPort>false</OpenPort>
+  </DaktronicsList>
+  <ButtonList>
+    <ButtonNumber>4</ButtonNumber>
+    <CGFileName>sogndal - hønefoss</CGFileName>
+    <TagName>Awayscore</TagName>
+    <Caption>+ 1</Caption>
+    <Value>1</Value>
+    <AddValue>1</AddValue>
+    <UseAllFiles>true</UseAllFiles>
+    <TagIsGraphic>false</TagIsGraphic>
+    <ColorNameHeader>Red</ColorNameHeader>
+  </ButtonList>
+  <ButtonList>
+    <ButtonNumber>5</ButtonNumber>
+    <CGFileName>sogndal - hønefoss</CGFileName>
+    <TagName>Awayscore</TagName>
+    <Caption>- 1</Caption>
+    <Value>1</Value>
+    <AddValue>-1</AddValue>
+    <UseAllFiles>true</UseAllFiles>
+    <TagIsGraphic>false</TagIsGraphic>
+    <ColorNameHeader>Red</ColorNameHeader>
+  </ButtonList>
+  <ButtonList>
+    <ButtonNumber>6</ButtonNumber>
+    <CGFileName>sogndal - hønefoss</CGFileName>
+    <TagName>Homescore</TagName>
+    <Caption>- 1</Caption>
+    <Value>1</Value>
+    <AddValue>-1</AddValue>
+    <UseAllFiles>true</UseAllFiles>
+    <TagIsGraphic>false</TagIsGraphic>
+    <ColorNameHeader>Green</ColorNameHeader>
+  </ButtonList>
+  <ButtonList>
+    <ButtonNumber>7</ButtonNumber>
+    <CGFileName>sogndal - hønefoss</CGFileName>
+    <TagName>Homescore</TagName>
+    <Caption>+ 1</Caption>
+    <Value>1</Value>
+    <AddValue>1</AddValue>
+    <UseAllFiles>true</UseAllFiles>
+    <TagIsGraphic>false</TagIsGraphic>
+    <ColorNameHeader>Green</ColorNameHeader>
+  </ButtonList>
+  <ButtonList>
+    <ButtonNumber>8</ButtonNumber>
+    <CGFileName>gult kort</CGFileName>
+    <TagName>Spelarnamn</TagName>
+    <Caption>Kristoffer Nesse</Caption>
+    <Value>Kristoffer Nesse</Value>
+    <AddValue>0</AddValue>
+    <UseAllFiles>true</UseAllFiles>
+    <TagIsGraphic>false</TagIsGraphic>
+    <ColorNameHeader>DarkViolet</ColorNameHeader>
+  </ButtonList>
+  <ButtonList>
+    <ButtonNumber>9</ButtonNumber>
+    <CGFileName>gult kort</CGFileName>
+    <TagName>Spelarnamn</TagName>
+    <Caption>Hannu Patronen</Caption>
+    <Value>Hannu Patronen</Value>
+    <AddValue>0</AddValue>
+    <UseAllFiles>true</UseAllFiles>
+    <TagIsGraphic>false</TagIsGraphic>
+    <ColorNameHeader>DarkViolet</ColorNameHeader>
+  </ButtonList>
+  <ButtonList>
+    <ButtonNumber>10</ButtonNumber>
+    <CGFileName>sogndal - hønefoss</CGFileName>
+    <TagName>Homescore</TagName>
+    <Caption>0</Caption>
+    <Value>0</Value>
+    <AddValue>0</AddValue>
+    <UseAllFiles>true</UseAllFiles>
+    <TagIsGraphic>false</TagIsGraphic>
+    <ColorNameHeader>Green</ColorNameHeader>
+  </ButtonList>
+  <ButtonList>
+    <ButtonNumber>11</ButtonNumber>
+    <CGFileName>sogndal - hønefoss</CGFileName>
+    <TagName>Awayscore</TagName>
+    <Caption>0</Caption>
+    <Value>0</Value>
+    <AddValue>0</AddValue>
+    <UseAllFiles>true</UseAllFiles>
+    <TagIsGraphic>false</TagIsGraphic>
+    <ColorNameHeader>Red</ColorNameHeader>
+  </ButtonList>
+  <ButtonList>
+    <ButtonNumber>12</ButtonNumber>
+    <CGFileName>stillingstor</CGFileName>
+    <TagName>Homescore</TagName>
+    <Caption>45:00</Caption>
+    <Value>45:00</Value>
+    <AddValue>0</AddValue>
+    <UseAllFiles>false</UseAllFiles>
+    <TagIsGraphic>false</TagIsGraphic>
+    <ColorNameHeader>Blue</ColorNameHeader>
+  </ButtonList>
+  <ButtonList>
+    <ButtonNumber>13</ButtonNumber>
+    <CGFileName>stillingstor</CGFileName>
+    <TagName>AwayLogo</TagName>
+    <Caption />
+    <Value>C:\Documents and Settings\Broadcast Pix\My Documents\My Pictures\stabaek_logo_512.png</Value>
+    <AddValue>0</AddValue>
+    <UseAllFiles>true</UseAllFiles>
+    <TagIsGraphic>true</TagIsGraphic>
+    <ColorNameHeader>Blue</ColorNameHeader>
+  </ButtonList>
+  <ButtonList>
+    <ButtonNumber>14</ButtonNumber>
+    <CGFileName>stillingstor</CGFileName>
+    <TagName>AwayLogo</TagName>
+    <Caption />
+    <Value>C:\Documents and Settings\Broadcast Pix\My Documents\My Pictures\godset-stromsgodset-logo.png</Value>
+    <AddValue>0</AddValue>
+    <UseAllFiles>true</UseAllFiles>
+    <TagIsGraphic>true</TagIsGraphic>
+    <ColorNameHeader>Blue</ColorNameHeader>
+  </ButtonList>
+  <ButtonList>
+    <ButtonNumber>15</ButtonNumber>
+    <CGFileName>stillingstor</CGFileName>
+    <TagName>AwayLogo</TagName>
+    <Caption />
+    <Value>C:\Documents and Settings\Broadcast Pix\My Documents\My Pictures\RBK_u_pos.png</Value>
+    <AddValue>0</AddValue>
+    <UseAllFiles>true</UseAllFiles>
+    <TagIsGraphic>true</TagIsGraphic>
+    <ColorNameHeader>Blue</ColorNameHeader>
+  </ButtonList>
+  <ButtonList>
+    <ButtonNumber>16</ButtonNumber>
+    <CGFileName>stillingstor</CGFileName>
+    <TagName>AwayLogo</TagName>
+    <Caption />
+    <Value>C:\Documents and Settings\Broadcast Pix\My Documents\My Pictures\15269.png</Value>
+    <AddValue>0</AddValue>
+    <UseAllFiles>true</UseAllFiles>
+    <TagIsGraphic>true</TagIsGraphic>
+    <ColorNameHeader>Blue</ColorNameHeader>
+  </ButtonList>
+  <ButtonList>
+    <ButtonNumber>17</ButtonNumber>
+    <CGFileName>stillingstor</CGFileName>
+    <TagName>AwayLogo</TagName>
+    <Caption />
+    <Value>C:\Documents and Settings\Broadcast Pix\My Documents\My Pictures\Lillestrøm_SK.png</Value>
+    <AddValue>0</AddValue>
+    <UseAllFiles>true</UseAllFiles>
+    <TagIsGraphic>true</TagIsGraphic>
+    <ColorNameHeader>Blue</ColorNameHeader>
+  </ButtonList>
+  <ButtonList>
+    <ButtonNumber>18</ButtonNumber>
+    <CGFileName>stillingstor</CGFileName>
+    <TagName>AwayLogo</TagName>
+    <Caption />
+    <Value>C:\Documents and Settings\Broadcast Pix\My Documents\My Pictures\Molde_Fotball_Logo.svg.png</Value>
+    <AddValue>0</AddValue>
+    <UseAllFiles>true</UseAllFiles>
+    <TagIsGraphic>true</TagIsGraphic>
+    <ColorNameHeader>Blue</ColorNameHeader>
+  </ButtonList>
+  <ButtonList>
+    <ButtonNumber>19</ButtonNumber>
+    <CGFileName>stillingstor</CGFileName>
+    <TagName>AwayLogo</TagName>
+    <Caption />
+    <Value>C:\Documents and Settings\Broadcast Pix\My Documents\My Pictures\SK_Brann.png</Value>
+    <AddValue>0</AddValue>
+    <UseAllFiles>true</UseAllFiles>
+    <TagIsGraphic>true</TagIsGraphic>
+    <ColorNameHeader>Blue</ColorNameHeader>
+  </ButtonList>
+  <ButtonList>
+    <ButtonNumber>20</ButtonNumber>
+    <CGFileName>stillingstor</CGFileName>
+    <TagName>AwayLogo</TagName>
+    <Caption />
+    <Value>C:\Documents and Settings\Broadcast Pix\My Documents\My Pictures\logo.png</Value>
+    <AddValue>0</AddValue>
+    <UseAllFiles>true</UseAllFiles>
+    <TagIsGraphic>true</TagIsGraphic>
+    <ColorNameHeader>Blue</ColorNameHeader>
+  </ButtonList>
+  <ButtonList>
+    <ButtonNumber>21</ButtonNumber>
+    <CGFileName>velkommentilfosshaugane</CGFileName>
+    <TagName>AwayLogo</TagName>
+    <Caption />
+    <Value>C:\Documents and Settings\Broadcast Pix\My Documents\My Pictures\tromso-il-logo_k6i9e52ln2gu1htvm0ps0jqh9.png</Value>
+    <AddValue>0</AddValue>
+    <UseAllFiles>true</UseAllFiles>
+    <TagIsGraphic>true</TagIsGraphic>
+    <ColorNameHeader>Blue</ColorNameHeader>
+  </ButtonList>
+  <ButtonList>
+    <ButtonNumber>22</ButtonNumber>
+    <CGFileName>velkommentilfosshaugane</CGFileName>
+    <TagName>AwayLogo</TagName>
+    <Caption />
+    <Value>C:\Documents and Settings\Broadcast Pix\My Documents\My Pictures\Viking_Stavanger.png</Value>
+    <AddValue>0</AddValue>
+    <UseAllFiles>true</UseAllFiles>
+    <TagIsGraphic>true</TagIsGraphic>
+    <ColorNameHeader>Blue</ColorNameHeader>
+  </ButtonList>
+  <ButtonList>
+    <ButtonNumber>23</ButtonNumber>
+    <CGFileName>velkommentilfosshaugane</CGFileName>
+    <TagName>AwayLogo</TagName>
+    <Caption />
+    <Value>C:\Documents and Settings\Broadcast Pix\My Documents\My Pictures\Aalesunds_FK_logo.svg.png</Value>
+    <AddValue>0</AddValue>
+    <UseAllFiles>true</UseAllFiles>
+    <TagIsGraphic>true</TagIsGraphic>
+    <ColorNameHeader>Blue</ColorNameHeader>
+  </ButtonList>
+  <ButtonList>
+    <ButtonNumber>24</ButtonNumber>
+    <CGFileName>velkommentilfosshaugane</CGFileName>
+    <TagName>AwayLogo</TagName>
+    <Caption />
+    <Value>C:\Documents and Settings\Broadcast Pix\My Documents\My Pictures\haugesund.png</Value>
+    <AddValue>0</AddValue>
+    <UseAllFiles>true</UseAllFiles>
+    <TagIsGraphic>true</TagIsGraphic>
+    <ColorNameHeader>Blue</ColorNameHeader>
+  </ButtonList>
+  <ButtonList>
+    <ButtonNumber>25</ButtonNumber>
+    <CGFileName>velkommentilfosshaugane</CGFileName>
+    <TagName>AwayLogo</TagName>
+    <Caption />
+    <Value>C:\Documents and Settings\Broadcast Pix\My Documents\My Pictures\odd.png</Value>
+    <AddValue>0</AddValue>
+    <UseAllFiles>true</UseAllFiles>
+    <TagIsGraphic>true</TagIsGraphic>
+    <ColorNameHeader>Blue</ColorNameHeader>
+  </ButtonList>
+  <Content>
+    <ContentType>CG</ContentType>
+    <ContentXtn>.SCRIBE</ContentXtn>
+    <ContentAlias>stillingstor</ContentAlias>
+    <ContentFile>C:\Graphics\cg\Sogndal\Filer til RapidCG\stillingstor.SCRIBE</ContentFile>
+  </Content>
+  <Content>
+    <ContentType>CG</ContentType>
+    <ContentXtn>.scribe</ContentXtn>
+    <ContentAlias>Under kamp uten RSS</ContentAlias>
+    <ContentFile>C:\Graphics\cg\Sogndal\Filer til RapidCG\Under kamp uten RSS.scribe</ContentFile>
+  </Content>
+  <Content>
+    <ContentType>CG</ContentType>
+    <ContentXtn>.SCRIBE</ContentXtn>
+    <ContentAlias>velkommentilfosshaugane</ContentAlias>
+    <ContentFile>C:\Graphics\cg\Sogndal\Filer til RapidCG\velkommentilfosshaugane.SCRIBE</ContentFile>
+  </Content>
+  <Content>
+    <ContentType>CG</ContentType>
+    <ContentXtn>.SCRIBE</ContentXtn>
+    <ContentAlias>stor logo</ContentAlias>
+    <ContentFile>C:\Graphics\cg\Sogndal\Filer til RapidCG\stor logo.SCRIBE</ContentFile>
+  </Content>
+  <Content>
+    <ContentType>CG</ContentType>
+    <ContentXtn>.SCRIBE</ContentXtn>
+    <ContentAlias>GAMMEL motstander lagoppstilling</ContentAlias>
+    <ContentFile>C:\Graphics\cg\motstander lagoppstilling.SCRIBE</ContentFile>
+  </Content>
+  <Content>
+    <ContentType>CG</ContentType>
+    <ContentXtn>.SCRIBE</ContentXtn>
+    <ContentAlias>GAMMEL sogndal-lagoppstilling</ContentAlias>
+    <ContentFile>C:\Graphics\cg\sogndal-lagoppstilling.SCRIBE</ContentFile>
+  </Content>
+  <Content>
+    <ContentType>CG</ContentType>
+    <ContentXtn>.SCRIBE</ContentXtn>
+    <ContentAlias>tollefsen</ContentAlias>
+    <ContentFile>C:\Graphics\cg\Sogndal\Filer til RapidCG\tollefsen.SCRIBE</ContentFile>
+  </Content>
+  <Content>
+    <ContentType>CG</ContentType>
+    <ContentXtn>.SCRIBE</ContentXtn>
+    <ContentAlias>Lag Sogndal</ContentAlias>
+    <ContentFile>C:\Graphics\cg\sogndal-lagoppstilling-2017-tagtest.SCRIBE</ContentFile>
+  </Content>
+  <Content>
+    <ContentType>CG</ContentType>
+    <ContentXtn>.SCRIBE</ContentXtn>
+    <ContentAlias>motstander-lagoppstilling-2017-tagtest</ContentAlias>
+    <ContentFile>C:\Graphics\cg\motstander-lagoppstilling-2017-tagtest.SCRIBE</ContentFile>
+  </Content>
+  <Content>
+    <ContentType>CG</ContentType>
+    <ContentXtn>.SCRIBE</ContentXtn>
+    <ContentAlias>lagoppstilling-sogndal-grid</ContentAlias>
+    <ContentFile>C:\Graphics\cg\lagoppstilling-sogndal-grid.SCRIBE</ContentFile>
+  </Content>
+  <LinkList>
+    <LinkType>File</LinkType>
+    <LinkXtn>.xml</LinkXtn>
+    <LinkFile>C:\Graphics\stored content\speardata\data.xml</LinkFile>
+  </LinkList>
+  <DataTablesList>
+    <TableFile>C:\Graphics\stored content\speardata\data.xml</TableFile>
+    <TableName>hometeam</TableName>
+    <SearchField>0</SearchField>
+    <RowSelection>0</RowSelection>
+    <AutoPlayOn>false</AutoPlayOn>
+    <AutoPlayTimer>4</AutoPlayTimer>
+  </DataTablesList>
+  <DataTablesList>
+    <TableFile>C:\Graphics\stored content\speardata\data.xml</TableFile>
+    <TableName>awayteam</TableName>
+    <SearchField>0</SearchField>
+    <RowSelection>0</RowSelection>
+    <AutoPlayOn>false</AutoPlayOn>
+    <AutoPlayTimer>4</AutoPlayTimer>
+  </DataTablesList>
+  <TagLinks>
+    <FileName>stillingstor</FileName>
+    <TagNumber>0</TagNumber>
+    <TagName>Homescore</TagName>
+    <TagText>0</TagText>
+    <TagLink />
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>stillingstor</FileName>
+    <TagNumber>1</TagNumber>
+    <TagName>awayscore</TagName>
+    <TagText>0</TagText>
+    <TagLink />
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>stillingstor</FileName>
+    <TagNumber>2</TagNumber>
+    <TagName>AwayLogo</TagName>
+    <TagText>C:\Documents and Settings\Broadcast Pix\My Documents\My Pictures\Lillestrøm_SK.png</TagText>
+    <TagLink />
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>Under kamp uten RSS</FileName>
+    <TagNumber>0</TagNumber>
+    <TagName>Homescore</TagName>
+    <TagText>0</TagText>
+    <TagLink />
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>Under kamp uten RSS</FileName>
+    <TagNumber>1</TagNumber>
+    <TagName>Klokka</TagName>
+    <TagText>45:00</TagText>
+    <TagLink>[-Timer4] Stopwatch2</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>Under kamp uten RSS</FileName>
+    <TagNumber>2</TagNumber>
+    <TagName>awayscore</TagName>
+    <TagText>0</TagText>
+    <TagLink />
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>Under kamp uten RSS</FileName>
+    <TagNumber>3</TagNumber>
+    <TagName>AwayLogo</TagName>
+    <TagText>C:\Documents and Settings\Broadcast Pix\My Documents\My Pictures\Lillestrøm_SK.png</TagText>
+    <TagLink />
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>velkommentilfosshaugane</FileName>
+    <TagNumber>0</TagNumber>
+    <TagName>AwayLogo</TagName>
+    <TagText>C:\Documents and Settings\Broadcast Pix\My Documents\My Pictures\Lillestrøm_SK.png</TagText>
+    <TagLink />
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>Lag Sogndal</FileName>
+    <TagNumber>0</TagNumber>
+    <TagName>backh-navn</TagName>
+    <TagText>Utvik</TagText>
+    <TagLink>[data:hometeam] h2lastname</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>Lag Sogndal</FileName>
+    <TagNumber>1</TagNumber>
+    <TagName>backh-nr</TagName>
+    <TagText>3</TagText>
+    <TagLink>[data:hometeam] h2nr</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>Lag Sogndal</FileName>
+    <TagNumber>2</TagNumber>
+    <TagName>backv-navn</TagName>
+    <TagText>Teniste</TagText>
+    <TagLink>[data:hometeam] h5lastname</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>Lag Sogndal</FileName>
+    <TagNumber>3</TagNumber>
+    <TagName>backv-nr</TagName>
+    <TagText>2</TagText>
+    <TagLink>[data:hometeam] h5nr</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>Lag Sogndal</FileName>
+    <TagNumber>4</TagNumber>
+    <TagName>keep-navn</TagName>
+    <TagText>Dyngeland</TagText>
+    <TagLink>[data:hometeam] h1lastname</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>Lag Sogndal</FileName>
+    <TagNumber>5</TagNumber>
+    <TagName>keep-nr</TagName>
+    <TagText>1</TagText>
+    <TagLink>[data:hometeam] h1nr</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>Lag Sogndal</FileName>
+    <TagNumber>6</TagNumber>
+    <TagName>midtbh-navn</TagName>
+    <TagText>Furebotn</TagText>
+    <TagLink>[data:hometeam] h7lastname</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>Lag Sogndal</FileName>
+    <TagNumber>7</TagNumber>
+    <TagName>midtbh-nr</TagName>
+    <TagText>6</TagText>
+    <TagLink>[data:hometeam] h7nr</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>Lag Sogndal</FileName>
+    <TagNumber>8</TagNumber>
+    <TagName>midtbv-navn</TagName>
+    <TagText>Birkelund</TagText>
+    <TagLink>[data:hometeam] h8lastname</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>Lag Sogndal</FileName>
+    <TagNumber>9</TagNumber>
+    <TagName>midtbv-nr</TagName>
+    <TagText>27</TagText>
+    <TagLink>[data:hometeam] h8nr</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>Lag Sogndal</FileName>
+    <TagNumber>10</TagNumber>
+    <TagName>midtsth-nr</TagName>
+    <TagText>15</TagText>
+    <TagLink>[data:hometeam] h3nr</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>Lag Sogndal</FileName>
+    <TagNumber>11</TagNumber>
+    <TagName>midtstv-navn</TagName>
+    <TagText>Psyché</TagText>
+    <TagLink>[data:hometeam] h4lastname</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>Lag Sogndal</FileName>
+    <TagNumber>12</TagNumber>
+    <TagName>midtstv-nr</TagName>
+    <TagText>17</TagText>
+    <TagLink>[data:hometeam] h4nr</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>Lag Sogndal</FileName>
+    <TagNumber>13</TagNumber>
+    <TagName>midtstv-nvn</TagName>
+    <TagText>Steiring</TagText>
+    <TagLink>[data:hometeam] h3lastname</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>Lag Sogndal</FileName>
+    <TagNumber>14</TagNumber>
+    <TagName>spissh-navn</TagName>
+    <TagText>Nwakali</TagText>
+    <TagLink>[data:hometeam] h10lastname</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>Lag Sogndal</FileName>
+    <TagNumber>15</TagNumber>
+    <TagName>spissh-nr</TagName>
+    <TagText>4</TagText>
+    <TagLink>[data:hometeam] h10nr</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>Lag Sogndal</FileName>
+    <TagNumber>16</TagNumber>
+    <TagName>spissv-navn</TagName>
+    <TagText>Bye</TagText>
+    <TagLink>[data:hometeam] h11lastname</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>Lag Sogndal</FileName>
+    <TagNumber>17</TagNumber>
+    <TagName>spissv-nr</TagName>
+    <TagText>18</TagText>
+    <TagLink>[data:hometeam] h11nr</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>Lag Sogndal</FileName>
+    <TagNumber>18</TagNumber>
+    <TagName>vingh-navn</TagName>
+    <TagText>Koomson</TagText>
+    <TagLink>[data:hometeam] h6lastname</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>Lag Sogndal</FileName>
+    <TagNumber>19</TagNumber>
+    <TagName>vingh-nr</TagName>
+    <TagText>10</TagText>
+    <TagLink>[data:hometeam] h6nr</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>Lag Sogndal</FileName>
+    <TagNumber>20</TagNumber>
+    <TagName>vingv-navn</TagName>
+    <TagText>Schulze</TagText>
+    <TagLink>[data:hometeam] h9lastname</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>Lag Sogndal</FileName>
+    <TagNumber>21</TagNumber>
+    <TagName>vingv-nr</TagName>
+    <TagText>7</TagText>
+    <TagLink>[data:hometeam] h9nr</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>Lag Sogndal</FileName>
+    <TagNumber>22</TagNumber>
+    <TagName>logo</TagName>
+    <TagText>C:\Documents and Settings\Broadcast Pix\My Documents\My Pictures\Sogndal.psd</TagText>
+    <TagLink />
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>motstander-lagoppstilling-2017-tagtest</FileName>
+    <TagNumber>0</TagNumber>
+    <TagName>backh-navn</TagName>
+    <TagText>Haakenstad</TagText>
+    <TagLink>[data:awayteam] a2lastname</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>motstander-lagoppstilling-2017-tagtest</FileName>
+    <TagNumber>1</TagNumber>
+    <TagName>backh-nr</TagName>
+    <TagText>2</TagText>
+    <TagLink>[data:awayteam] a2nr</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>motstander-lagoppstilling-2017-tagtest</FileName>
+    <TagNumber>2</TagNumber>
+    <TagName>backv-navn</TagName>
+    <TagText>Kind Mikalsen</TagText>
+    <TagLink>[data:awayteam] a5lastname</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>motstander-lagoppstilling-2017-tagtest</FileName>
+    <TagNumber>3</TagNumber>
+    <TagName>backv-nr</TagName>
+    <TagText>3</TagText>
+    <TagLink>[data:awayteam] a5nr</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>motstander-lagoppstilling-2017-tagtest</FileName>
+    <TagNumber>4</TagNumber>
+    <TagName>keep-navn</TagName>
+    <TagText>Origi</TagText>
+    <TagLink>[data:awayteam] a1lastname</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>motstander-lagoppstilling-2017-tagtest</FileName>
+    <TagNumber>5</TagNumber>
+    <TagName>keep-nr</TagName>
+    <TagText>77</TagText>
+    <TagLink>[data:awayteam] a1nr</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>motstander-lagoppstilling-2017-tagtest</FileName>
+    <TagNumber>6</TagNumber>
+    <TagName>midtbh-navn</TagName>
+    <TagText>Mathew</TagText>
+    <TagLink>[data:awayteam] a7lastname</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>motstander-lagoppstilling-2017-tagtest</FileName>
+    <TagNumber>7</TagNumber>
+    <TagName>midtbh-nr</TagName>
+    <TagText>6</TagText>
+    <TagLink>[data:awayteam] a7nr</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>motstander-lagoppstilling-2017-tagtest</FileName>
+    <TagNumber>8</TagNumber>
+    <TagName>midtbv-navn</TagName>
+    <TagText>Krogstad</TagText>
+    <TagLink>[data:awayteam] a8lastname</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>motstander-lagoppstilling-2017-tagtest</FileName>
+    <TagNumber>9</TagNumber>
+    <TagName>midtbv-nr</TagName>
+    <TagText>14</TagText>
+    <TagLink>[data:awayteam] a8nr</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>motstander-lagoppstilling-2017-tagtest</FileName>
+    <TagNumber>10</TagNumber>
+    <TagName>midtsth-nr</TagName>
+    <TagText>4</TagText>
+    <TagLink>[data:awayteam] a3nr</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>motstander-lagoppstilling-2017-tagtest</FileName>
+    <TagNumber>11</TagNumber>
+    <TagName>midtstv-navn</TagName>
+    <TagText>Kippe</TagText>
+    <TagLink>[data:awayteam] a4lastname</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>motstander-lagoppstilling-2017-tagtest</FileName>
+    <TagNumber>12</TagNumber>
+    <TagName>midtstv-nr</TagName>
+    <TagText>13</TagText>
+    <TagLink>[data:awayteam] a4nr</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>motstander-lagoppstilling-2017-tagtest</FileName>
+    <TagNumber>13</TagNumber>
+    <TagName>midtstv-nvn</TagName>
+    <TagText>Amundsen</TagText>
+    <TagLink>[data:awayteam] a3lastname</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>motstander-lagoppstilling-2017-tagtest</FileName>
+    <TagNumber>14</TagNumber>
+    <TagName>spissh-navn</TagName>
+    <TagText>Malec</TagText>
+    <TagLink>[data:awayteam] a10lastname</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>motstander-lagoppstilling-2017-tagtest</FileName>
+    <TagNumber>15</TagNumber>
+    <TagName>spissh-nr</TagName>
+    <TagText>7</TagText>
+    <TagLink>[data:awayteam] a10nr</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>motstander-lagoppstilling-2017-tagtest</FileName>
+    <TagNumber>16</TagNumber>
+    <TagName>spissv-navn</TagName>
+    <TagText>Ajeti</TagText>
+    <TagLink>[data:awayteam] a11lastname</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>motstander-lagoppstilling-2017-tagtest</FileName>
+    <TagNumber>17</TagNumber>
+    <TagName>spissv-nr</TagName>
+    <TagText>9</TagText>
+    <TagLink>[data:awayteam] a11nr</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>motstander-lagoppstilling-2017-tagtest</FileName>
+    <TagNumber>18</TagNumber>
+    <TagName>vingh-navn</TagName>
+    <TagText>Knudtzon</TagText>
+    <TagLink>[data:awayteam] a6lastname</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>motstander-lagoppstilling-2017-tagtest</FileName>
+    <TagNumber>19</TagNumber>
+    <TagName>vingh-nr</TagName>
+    <TagText>11</TagText>
+    <TagLink>[data:awayteam] a6nr</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>motstander-lagoppstilling-2017-tagtest</FileName>
+    <TagNumber>20</TagNumber>
+    <TagName>vingv-navn</TagName>
+    <TagText>Rafn</TagText>
+    <TagLink>[data:awayteam] a9lastname</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>motstander-lagoppstilling-2017-tagtest</FileName>
+    <TagNumber>21</TagNumber>
+    <TagName>vingv-nr</TagName>
+    <TagText>5</TagText>
+    <TagLink>[data:awayteam] a9nr</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>motstander-lagoppstilling-2017-tagtest</FileName>
+    <TagNumber>22</TagNumber>
+    <TagName>AwayLogo</TagName>
+    <TagText>C:\Documents and Settings\Broadcast Pix\My Documents\My Pictures\Lillestrøm_SK.png</TagText>
+    <TagLink />
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-sogndal-grid</FileName>
+    <TagNumber>0</TagNumber>
+    <TagName>11n</TagName>
+    <TagText>Dyngeland</TagText>
+    <TagLink>[data:hometeam] 11n</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-sogndal-grid</FileName>
+    <TagNumber>1</TagNumber>
+    <TagName>11r</TagName>
+    <TagText>1</TagText>
+    <TagLink>[data:hometeam] 11r</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-sogndal-grid</FileName>
+    <TagNumber>2</TagNumber>
+    <TagName>12n</TagName>
+    <TagText>Dyngeland</TagText>
+    <TagLink>[data:hometeam] 12n</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-sogndal-grid</FileName>
+    <TagNumber>3</TagNumber>
+    <TagName>12r</TagName>
+    <TagText>1</TagText>
+    <TagLink>[data:hometeam] 12r</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-sogndal-grid</FileName>
+    <TagNumber>4</TagNumber>
+    <TagName>13n</TagName>
+    <TagText>Dyngeland</TagText>
+    <TagLink>[data:hometeam] 13n</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-sogndal-grid</FileName>
+    <TagNumber>5</TagNumber>
+    <TagName>13r</TagName>
+    <TagText>1</TagText>
+    <TagLink>[data:hometeam] 13r</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-sogndal-grid</FileName>
+    <TagNumber>6</TagNumber>
+    <TagName>14n</TagName>
+    <TagText>Dyngeland</TagText>
+    <TagLink>[data:hometeam] 14n</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-sogndal-grid</FileName>
+    <TagNumber>7</TagNumber>
+    <TagName>14r</TagName>
+    <TagText>1</TagText>
+    <TagLink>[data:hometeam] 14r</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-sogndal-grid</FileName>
+    <TagNumber>8</TagNumber>
+    <TagName>15n</TagName>
+    <TagText>Dyngeland</TagText>
+    <TagLink>[data:hometeam] 15n</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-sogndal-grid</FileName>
+    <TagNumber>9</TagNumber>
+    <TagName>15r</TagName>
+    <TagText>1</TagText>
+    <TagLink>[data:hometeam] 15r</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-sogndal-grid</FileName>
+    <TagNumber>10</TagNumber>
+    <TagName>16n</TagName>
+    <TagText>Dyngeland</TagText>
+    <TagLink>[data:hometeam] 16n</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-sogndal-grid</FileName>
+    <TagNumber>11</TagNumber>
+    <TagName>16r</TagName>
+    <TagText>1</TagText>
+    <TagLink>[data:hometeam] 16r</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-sogndal-grid</FileName>
+    <TagNumber>12</TagNumber>
+    <TagName>17n</TagName>
+    <TagText>Dyngeland</TagText>
+    <TagLink>[data:hometeam] 17n</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-sogndal-grid</FileName>
+    <TagNumber>13</TagNumber>
+    <TagName>17r</TagName>
+    <TagText>1</TagText>
+    <TagLink>[data:hometeam] 17r</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-sogndal-grid</FileName>
+    <TagNumber>14</TagNumber>
+    <TagName>21n</TagName>
+    <TagText>Dyngeland</TagText>
+    <TagLink>[data:hometeam] 21n</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-sogndal-grid</FileName>
+    <TagNumber>15</TagNumber>
+    <TagName>21r</TagName>
+    <TagText>1</TagText>
+    <TagLink>[data:hometeam] 21r</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-sogndal-grid</FileName>
+    <TagNumber>16</TagNumber>
+    <TagName>22n</TagName>
+    <TagText>Dyngeland</TagText>
+    <TagLink>[data:hometeam] 22n</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-sogndal-grid</FileName>
+    <TagNumber>17</TagNumber>
+    <TagName>22r</TagName>
+    <TagText>1</TagText>
+    <TagLink>[data:hometeam] 22r</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-sogndal-grid</FileName>
+    <TagNumber>18</TagNumber>
+    <TagName>23n</TagName>
+    <TagText>Dyngeland</TagText>
+    <TagLink>[data:hometeam] 23n</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-sogndal-grid</FileName>
+    <TagNumber>19</TagNumber>
+    <TagName>23r</TagName>
+    <TagText>1</TagText>
+    <TagLink>[data:hometeam] 23r</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-sogndal-grid</FileName>
+    <TagNumber>20</TagNumber>
+    <TagName>24n</TagName>
+    <TagText>Dyngeland</TagText>
+    <TagLink>[data:hometeam] 24n</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-sogndal-grid</FileName>
+    <TagNumber>21</TagNumber>
+    <TagName>24r</TagName>
+    <TagText>1</TagText>
+    <TagLink>[data:hometeam] 24r</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-sogndal-grid</FileName>
+    <TagNumber>22</TagNumber>
+    <TagName>25n</TagName>
+    <TagText>Dyngeland</TagText>
+    <TagLink>[data:hometeam] 25n</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-sogndal-grid</FileName>
+    <TagNumber>23</TagNumber>
+    <TagName>25r</TagName>
+    <TagText>1</TagText>
+    <TagLink>[data:hometeam] 25r</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-sogndal-grid</FileName>
+    <TagNumber>24</TagNumber>
+    <TagName>26n</TagName>
+    <TagText>Dyngeland</TagText>
+    <TagLink>[data:hometeam] 26n</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-sogndal-grid</FileName>
+    <TagNumber>25</TagNumber>
+    <TagName>26r</TagName>
+    <TagText>1</TagText>
+    <TagLink>[data:hometeam] 26r</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-sogndal-grid</FileName>
+    <TagNumber>26</TagNumber>
+    <TagName>27n</TagName>
+    <TagText>Dyngeland</TagText>
+    <TagLink>[data:hometeam] 27n</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-sogndal-grid</FileName>
+    <TagNumber>27</TagNumber>
+    <TagName>27r</TagName>
+    <TagText>1</TagText>
+    <TagLink>[data:hometeam] 27r</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-sogndal-grid</FileName>
+    <TagNumber>28</TagNumber>
+    <TagName>31n</TagName>
+    <TagText>Dyngeland</TagText>
+    <TagLink>[data:hometeam] 31n</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-sogndal-grid</FileName>
+    <TagNumber>29</TagNumber>
+    <TagName>31r</TagName>
+    <TagText>1</TagText>
+    <TagLink>[data:hometeam] 31r</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-sogndal-grid</FileName>
+    <TagNumber>30</TagNumber>
+    <TagName>32n</TagName>
+    <TagText>Dyngeland</TagText>
+    <TagLink>[data:hometeam] 32n</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-sogndal-grid</FileName>
+    <TagNumber>31</TagNumber>
+    <TagName>32r</TagName>
+    <TagText>1</TagText>
+    <TagLink>[data:hometeam] 32r</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-sogndal-grid</FileName>
+    <TagNumber>32</TagNumber>
+    <TagName>33n</TagName>
+    <TagText>Dyngeland</TagText>
+    <TagLink>[data:hometeam] 33n</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-sogndal-grid</FileName>
+    <TagNumber>33</TagNumber>
+    <TagName>33r</TagName>
+    <TagText>1</TagText>
+    <TagLink>[data:hometeam] 33r</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-sogndal-grid</FileName>
+    <TagNumber>34</TagNumber>
+    <TagName>34n</TagName>
+    <TagText>Dyngeland</TagText>
+    <TagLink>[data:hometeam] 34n</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-sogndal-grid</FileName>
+    <TagNumber>35</TagNumber>
+    <TagName>34r</TagName>
+    <TagText>1</TagText>
+    <TagLink>[data:hometeam] 34r</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-sogndal-grid</FileName>
+    <TagNumber>36</TagNumber>
+    <TagName>35n</TagName>
+    <TagText>Dyngeland</TagText>
+    <TagLink>[data:hometeam] 35n</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-sogndal-grid</FileName>
+    <TagNumber>37</TagNumber>
+    <TagName>35r</TagName>
+    <TagText>1</TagText>
+    <TagLink>[data:hometeam] 35r</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-sogndal-grid</FileName>
+    <TagNumber>38</TagNumber>
+    <TagName>36n</TagName>
+    <TagText>Dyngeland</TagText>
+    <TagLink>[data:hometeam] 36n</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-sogndal-grid</FileName>
+    <TagNumber>39</TagNumber>
+    <TagName>36r</TagName>
+    <TagText>1</TagText>
+    <TagLink>[data:hometeam] 36r</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-sogndal-grid</FileName>
+    <TagNumber>40</TagNumber>
+    <TagName>37n</TagName>
+    <TagText>Dyngeland</TagText>
+    <TagLink>[data:hometeam] 37n</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-sogndal-grid</FileName>
+    <TagNumber>41</TagNumber>
+    <TagName>37r</TagName>
+    <TagText>1</TagText>
+    <TagLink>[data:hometeam] 37r</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-sogndal-grid</FileName>
+    <TagNumber>42</TagNumber>
+    <TagName>41n</TagName>
+    <TagText>Dyngeland</TagText>
+    <TagLink>[data:hometeam] 41n</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-sogndal-grid</FileName>
+    <TagNumber>43</TagNumber>
+    <TagName>41r</TagName>
+    <TagText>1</TagText>
+    <TagLink>[data:hometeam] 41r</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-sogndal-grid</FileName>
+    <TagNumber>44</TagNumber>
+    <TagName>42n</TagName>
+    <TagText>Dyngeland</TagText>
+    <TagLink>[data:hometeam] 42n</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-sogndal-grid</FileName>
+    <TagNumber>45</TagNumber>
+    <TagName>42r</TagName>
+    <TagText>1</TagText>
+    <TagLink>[data:hometeam] 42r</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-sogndal-grid</FileName>
+    <TagNumber>46</TagNumber>
+    <TagName>43n</TagName>
+    <TagText>Dyngeland</TagText>
+    <TagLink>[data:hometeam] 43n</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-sogndal-grid</FileName>
+    <TagNumber>47</TagNumber>
+    <TagName>43r</TagName>
+    <TagText>1</TagText>
+    <TagLink>[data:hometeam] 43r</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-sogndal-grid</FileName>
+    <TagNumber>48</TagNumber>
+    <TagName>44n</TagName>
+    <TagText>Dyngeland</TagText>
+    <TagLink>[data:hometeam] 44n</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-sogndal-grid</FileName>
+    <TagNumber>49</TagNumber>
+    <TagName>44r</TagName>
+    <TagText>1</TagText>
+    <TagLink>[data:hometeam] 44r</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-sogndal-grid</FileName>
+    <TagNumber>50</TagNumber>
+    <TagName>45n</TagName>
+    <TagText>Dyngeland</TagText>
+    <TagLink>[data:hometeam] 45n</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-sogndal-grid</FileName>
+    <TagNumber>51</TagNumber>
+    <TagName>45r</TagName>
+    <TagText>1</TagText>
+    <TagLink>[data:hometeam] 45r</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-sogndal-grid</FileName>
+    <TagNumber>52</TagNumber>
+    <TagName>46n</TagName>
+    <TagText>Dyngeland</TagText>
+    <TagLink>[data:hometeam] 46n</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-sogndal-grid</FileName>
+    <TagNumber>53</TagNumber>
+    <TagName>46r</TagName>
+    <TagText>1</TagText>
+    <TagLink>[data:hometeam] 46r</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-sogndal-grid</FileName>
+    <TagNumber>54</TagNumber>
+    <TagName>47n</TagName>
+    <TagText>Dyngeland</TagText>
+    <TagLink>[data:hometeam] 47n</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-sogndal-grid</FileName>
+    <TagNumber>55</TagNumber>
+    <TagName>47r</TagName>
+    <TagText>1</TagText>
+    <TagLink>[data:hometeam] 47r</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-sogndal-grid</FileName>
+    <TagNumber>56</TagNumber>
+    <TagName>51n</TagName>
+    <TagText>Dyngeland</TagText>
+    <TagLink>[data:hometeam] 51n</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-sogndal-grid</FileName>
+    <TagNumber>57</TagNumber>
+    <TagName>51r</TagName>
+    <TagText>1</TagText>
+    <TagLink>[data:hometeam] 51r</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-sogndal-grid</FileName>
+    <TagNumber>58</TagNumber>
+    <TagName>52n</TagName>
+    <TagText>Dyngeland</TagText>
+    <TagLink>[data:hometeam] 52n</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-sogndal-grid</FileName>
+    <TagNumber>59</TagNumber>
+    <TagName>52r</TagName>
+    <TagText>1</TagText>
+    <TagLink>[data:hometeam] 52r</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-sogndal-grid</FileName>
+    <TagNumber>60</TagNumber>
+    <TagName>53n</TagName>
+    <TagText>Dyngeland</TagText>
+    <TagLink>[data:hometeam] 53n</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-sogndal-grid</FileName>
+    <TagNumber>61</TagNumber>
+    <TagName>53r</TagName>
+    <TagText>1</TagText>
+    <TagLink>[data:hometeam] 53r</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-sogndal-grid</FileName>
+    <TagNumber>62</TagNumber>
+    <TagName>54n</TagName>
+    <TagText>Dyngeland</TagText>
+    <TagLink>[data:hometeam] 54n</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-sogndal-grid</FileName>
+    <TagNumber>63</TagNumber>
+    <TagName>54r</TagName>
+    <TagText>1</TagText>
+    <TagLink>[data:hometeam] 54r</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-sogndal-grid</FileName>
+    <TagNumber>64</TagNumber>
+    <TagName>55n</TagName>
+    <TagText>Dyngeland</TagText>
+    <TagLink>[data:hometeam] 55n</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-sogndal-grid</FileName>
+    <TagNumber>65</TagNumber>
+    <TagName>55r</TagName>
+    <TagText>1</TagText>
+    <TagLink>[data:hometeam] 55r</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-sogndal-grid</FileName>
+    <TagNumber>66</TagNumber>
+    <TagName>56n</TagName>
+    <TagText>Dyngeland</TagText>
+    <TagLink>[data:hometeam] 56n</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-sogndal-grid</FileName>
+    <TagNumber>67</TagNumber>
+    <TagName>56r</TagName>
+    <TagText>1</TagText>
+    <TagLink>[data:hometeam] 56r</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-sogndal-grid</FileName>
+    <TagNumber>68</TagNumber>
+    <TagName>57n</TagName>
+    <TagText>Dyngeland</TagText>
+    <TagLink>[data:hometeam] 57n</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-sogndal-grid</FileName>
+    <TagNumber>69</TagNumber>
+    <TagName>57r</TagName>
+    <TagText>1</TagText>
+    <TagLink>[data:hometeam] 57r</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-sogndal-grid</FileName>
+    <TagNumber>70</TagNumber>
+    <TagName>61n</TagName>
+    <TagText>Dyngeland</TagText>
+    <TagLink>[data:hometeam] 61n</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-sogndal-grid</FileName>
+    <TagNumber>71</TagNumber>
+    <TagName>61r</TagName>
+    <TagText>1</TagText>
+    <TagLink>[data:hometeam] 61r</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-sogndal-grid</FileName>
+    <TagNumber>72</TagNumber>
+    <TagName>62n</TagName>
+    <TagText>Dyngeland</TagText>
+    <TagLink>[data:hometeam] 62n</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-sogndal-grid</FileName>
+    <TagNumber>73</TagNumber>
+    <TagName>62r</TagName>
+    <TagText>1</TagText>
+    <TagLink>[data:hometeam] 62r</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-sogndal-grid</FileName>
+    <TagNumber>74</TagNumber>
+    <TagName>63n</TagName>
+    <TagText>Dyngeland</TagText>
+    <TagLink>[data:hometeam] 63n</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-sogndal-grid</FileName>
+    <TagNumber>75</TagNumber>
+    <TagName>63r</TagName>
+    <TagText>1</TagText>
+    <TagLink>[data:hometeam] 63r</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-sogndal-grid</FileName>
+    <TagNumber>76</TagNumber>
+    <TagName>64n</TagName>
+    <TagText>Dyngeland</TagText>
+    <TagLink>[data:hometeam] 64n</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-sogndal-grid</FileName>
+    <TagNumber>77</TagNumber>
+    <TagName>64r</TagName>
+    <TagText>1</TagText>
+    <TagLink>[data:hometeam] 64r</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-sogndal-grid</FileName>
+    <TagNumber>78</TagNumber>
+    <TagName>65n</TagName>
+    <TagText>Dyngeland</TagText>
+    <TagLink>[data:hometeam] 65n</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-sogndal-grid</FileName>
+    <TagNumber>79</TagNumber>
+    <TagName>65r</TagName>
+    <TagText>1</TagText>
+    <TagLink>[data:hometeam] 65r</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-sogndal-grid</FileName>
+    <TagNumber>80</TagNumber>
+    <TagName>66n</TagName>
+    <TagText>Dyngeland</TagText>
+    <TagLink>[data:hometeam] 66n</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-sogndal-grid</FileName>
+    <TagNumber>81</TagNumber>
+    <TagName>66r</TagName>
+    <TagText>1</TagText>
+    <TagLink>[data:hometeam] 66r</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-sogndal-grid</FileName>
+    <TagNumber>82</TagNumber>
+    <TagName>67n</TagName>
+    <TagText>Dyngeland</TagText>
+    <TagLink>[data:hometeam] 67n</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-sogndal-grid</FileName>
+    <TagNumber>83</TagNumber>
+    <TagName>67r</TagName>
+    <TagText>1</TagText>
+    <TagLink>[data:hometeam] 67r</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-sogndal-grid</FileName>
+    <TagNumber>84</TagNumber>
+    <TagName>71n</TagName>
+    <TagText>Dyngeland</TagText>
+    <TagLink>[data:hometeam] 71n</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-sogndal-grid</FileName>
+    <TagNumber>85</TagNumber>
+    <TagName>71r</TagName>
+    <TagText>1</TagText>
+    <TagLink>[data:hometeam] 71r</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-sogndal-grid</FileName>
+    <TagNumber>86</TagNumber>
+    <TagName>72n</TagName>
+    <TagText>Dyngeland</TagText>
+    <TagLink>[data:hometeam] 72n</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-sogndal-grid</FileName>
+    <TagNumber>87</TagNumber>
+    <TagName>72r</TagName>
+    <TagText>1</TagText>
+    <TagLink>[data:hometeam] 72r</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-sogndal-grid</FileName>
+    <TagNumber>88</TagNumber>
+    <TagName>73n</TagName>
+    <TagText>Dyngeland</TagText>
+    <TagLink>[data:hometeam] 73n</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-sogndal-grid</FileName>
+    <TagNumber>89</TagNumber>
+    <TagName>73r</TagName>
+    <TagText>1</TagText>
+    <TagLink>[data:hometeam] 73r</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-sogndal-grid</FileName>
+    <TagNumber>90</TagNumber>
+    <TagName>74n</TagName>
+    <TagText>Dyngeland</TagText>
+    <TagLink>[data:hometeam] 74n</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-sogndal-grid</FileName>
+    <TagNumber>91</TagNumber>
+    <TagName>74r</TagName>
+    <TagText>1</TagText>
+    <TagLink>[data:hometeam] 74r</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-sogndal-grid</FileName>
+    <TagNumber>92</TagNumber>
+    <TagName>75n</TagName>
+    <TagText>Dyngeland</TagText>
+    <TagLink>[data:hometeam] 75n</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-sogndal-grid</FileName>
+    <TagNumber>93</TagNumber>
+    <TagName>75r</TagName>
+    <TagText>1</TagText>
+    <TagLink>[data:hometeam] 75r</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-sogndal-grid</FileName>
+    <TagNumber>94</TagNumber>
+    <TagName>76n</TagName>
+    <TagText>Dyngeland</TagText>
+    <TagLink>[data:hometeam] 76n</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-sogndal-grid</FileName>
+    <TagNumber>95</TagNumber>
+    <TagName>76r</TagName>
+    <TagText>1</TagText>
+    <TagLink>[data:hometeam] 76r</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-sogndal-grid</FileName>
+    <TagNumber>96</TagNumber>
+    <TagName>77n</TagName>
+    <TagText>Dyngeland</TagText>
+    <TagLink>[data:hometeam] 77n</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-sogndal-grid</FileName>
+    <TagNumber>97</TagNumber>
+    <TagName>77r</TagName>
+    <TagText>1</TagText>
+    <TagLink>[data:hometeam] 77r</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-sogndal-grid</FileName>
+    <TagNumber>98</TagNumber>
+    <TagName>11g</TagName>
+    <TagText>C:\Documents and Settings\Broadcast Pix\My Documents\My Pictures\spelar.png</TagText>
+    <TagLink>[data:hometeam] 11g</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-sogndal-grid</FileName>
+    <TagNumber>99</TagNumber>
+    <TagName>12g</TagName>
+    <TagText>C:\Documents and Settings\Broadcast Pix\My Documents\My Pictures\spelar.png</TagText>
+    <TagLink>[data:hometeam] 12g</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-sogndal-grid</FileName>
+    <TagNumber>100</TagNumber>
+    <TagName>13g</TagName>
+    <TagText>C:\Documents and Settings\Broadcast Pix\My Documents\My Pictures\spelar.png</TagText>
+    <TagLink>[data:hometeam] 13g</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-sogndal-grid</FileName>
+    <TagNumber>101</TagNumber>
+    <TagName>14g</TagName>
+    <TagText>C:\Documents and Settings\Broadcast Pix\My Documents\My Pictures\spelar.png</TagText>
+    <TagLink>[data:hometeam] 14g</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-sogndal-grid</FileName>
+    <TagNumber>102</TagNumber>
+    <TagName>15g</TagName>
+    <TagText>C:\Documents and Settings\Broadcast Pix\My Documents\My Pictures\spelar.png</TagText>
+    <TagLink>[data:hometeam] 15g</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-sogndal-grid</FileName>
+    <TagNumber>103</TagNumber>
+    <TagName>16g</TagName>
+    <TagText>C:\Documents and Settings\Broadcast Pix\My Documents\My Pictures\spelar.png</TagText>
+    <TagLink>[data:hometeam] 16g</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-sogndal-grid</FileName>
+    <TagNumber>104</TagNumber>
+    <TagName>17g</TagName>
+    <TagText>C:\Documents and Settings\Broadcast Pix\My Documents\My Pictures\spelar.png</TagText>
+    <TagLink>[data:hometeam] 17g</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-sogndal-grid</FileName>
+    <TagNumber>105</TagNumber>
+    <TagName>21g</TagName>
+    <TagText>C:\Documents and Settings\Broadcast Pix\My Documents\My Pictures\spelar.png</TagText>
+    <TagLink>[data:hometeam] 21g</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-sogndal-grid</FileName>
+    <TagNumber>106</TagNumber>
+    <TagName>22g</TagName>
+    <TagText>C:\Documents and Settings\Broadcast Pix\My Documents\My Pictures\spelar.png</TagText>
+    <TagLink>[data:hometeam] 22g</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-sogndal-grid</FileName>
+    <TagNumber>107</TagNumber>
+    <TagName>23g</TagName>
+    <TagText>C:\Documents and Settings\Broadcast Pix\My Documents\My Pictures\spelar.png</TagText>
+    <TagLink>[data:hometeam] 23g</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-sogndal-grid</FileName>
+    <TagNumber>108</TagNumber>
+    <TagName>24g</TagName>
+    <TagText>C:\Documents and Settings\Broadcast Pix\My Documents\My Pictures\spelar.png</TagText>
+    <TagLink>[data:hometeam] 24g</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-sogndal-grid</FileName>
+    <TagNumber>109</TagNumber>
+    <TagName>25g</TagName>
+    <TagText>C:\Documents and Settings\Broadcast Pix\My Documents\My Pictures\spelar.png</TagText>
+    <TagLink>[data:hometeam] 25g</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-sogndal-grid</FileName>
+    <TagNumber>110</TagNumber>
+    <TagName>26g</TagName>
+    <TagText>C:\Documents and Settings\Broadcast Pix\My Documents\My Pictures\spelar.png</TagText>
+    <TagLink>[data:hometeam] 26g</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-sogndal-grid</FileName>
+    <TagNumber>111</TagNumber>
+    <TagName>27g</TagName>
+    <TagText>C:\Documents and Settings\Broadcast Pix\My Documents\My Pictures\spelar.png</TagText>
+    <TagLink>[data:hometeam] 27g</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-sogndal-grid</FileName>
+    <TagNumber>112</TagNumber>
+    <TagName>31g</TagName>
+    <TagText>C:\Documents and Settings\Broadcast Pix\My Documents\My Pictures\spelar.png</TagText>
+    <TagLink>[data:hometeam] 31g</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-sogndal-grid</FileName>
+    <TagNumber>113</TagNumber>
+    <TagName>32g</TagName>
+    <TagText>C:\Documents and Settings\Broadcast Pix\My Documents\My Pictures\spelar.png</TagText>
+    <TagLink>[data:hometeam] 32g</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-sogndal-grid</FileName>
+    <TagNumber>114</TagNumber>
+    <TagName>33g</TagName>
+    <TagText>C:\Documents and Settings\Broadcast Pix\My Documents\My Pictures\spelar.png</TagText>
+    <TagLink>[data:hometeam] 33g</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-sogndal-grid</FileName>
+    <TagNumber>115</TagNumber>
+    <TagName>34g</TagName>
+    <TagText>C:\Documents and Settings\Broadcast Pix\My Documents\My Pictures\spelar.png</TagText>
+    <TagLink>[data:hometeam] 34g</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-sogndal-grid</FileName>
+    <TagNumber>116</TagNumber>
+    <TagName>35g</TagName>
+    <TagText>C:\Documents and Settings\Broadcast Pix\My Documents\My Pictures\spelar.png</TagText>
+    <TagLink>[data:hometeam] 35g</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-sogndal-grid</FileName>
+    <TagNumber>117</TagNumber>
+    <TagName>36g</TagName>
+    <TagText>C:\Documents and Settings\Broadcast Pix\My Documents\My Pictures\spelar.png</TagText>
+    <TagLink>[data:hometeam] 36g</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-sogndal-grid</FileName>
+    <TagNumber>118</TagNumber>
+    <TagName>37g</TagName>
+    <TagText>C:\Documents and Settings\Broadcast Pix\My Documents\My Pictures\spelar.png</TagText>
+    <TagLink>[data:hometeam] 37g</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-sogndal-grid</FileName>
+    <TagNumber>119</TagNumber>
+    <TagName>41g</TagName>
+    <TagText>C:\Documents and Settings\Broadcast Pix\My Documents\My Pictures\spelar.png</TagText>
+    <TagLink>[data:hometeam] 41g</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-sogndal-grid</FileName>
+    <TagNumber>120</TagNumber>
+    <TagName>42g</TagName>
+    <TagText>C:\Documents and Settings\Broadcast Pix\My Documents\My Pictures\spelar.png</TagText>
+    <TagLink>[data:hometeam] 42g</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-sogndal-grid</FileName>
+    <TagNumber>121</TagNumber>
+    <TagName>43g</TagName>
+    <TagText>C:\Documents and Settings\Broadcast Pix\My Documents\My Pictures\spelar.png</TagText>
+    <TagLink>[data:hometeam] 43g</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-sogndal-grid</FileName>
+    <TagNumber>122</TagNumber>
+    <TagName>44g</TagName>
+    <TagText>C:\Documents and Settings\Broadcast Pix\My Documents\My Pictures\spelar.png</TagText>
+    <TagLink>[data:hometeam] 44g</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-sogndal-grid</FileName>
+    <TagNumber>123</TagNumber>
+    <TagName>45g</TagName>
+    <TagText>C:\Documents and Settings\Broadcast Pix\My Documents\My Pictures\spelar.png</TagText>
+    <TagLink>[data:hometeam] 45g</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-sogndal-grid</FileName>
+    <TagNumber>124</TagNumber>
+    <TagName>46g</TagName>
+    <TagText>C:\Documents and Settings\Broadcast Pix\My Documents\My Pictures\spelar.png</TagText>
+    <TagLink>[data:hometeam] 46g</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-sogndal-grid</FileName>
+    <TagNumber>125</TagNumber>
+    <TagName>47g</TagName>
+    <TagText>C:\Documents and Settings\Broadcast Pix\My Documents\My Pictures\spelar.png</TagText>
+    <TagLink>[data:hometeam] 47g</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-sogndal-grid</FileName>
+    <TagNumber>126</TagNumber>
+    <TagName>51g</TagName>
+    <TagText>C:\Documents and Settings\Broadcast Pix\My Documents\My Pictures\spelar.png</TagText>
+    <TagLink>[data:hometeam] 51g</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-sogndal-grid</FileName>
+    <TagNumber>127</TagNumber>
+    <TagName>52g</TagName>
+    <TagText>C:\Documents and Settings\Broadcast Pix\My Documents\My Pictures\spelar.png</TagText>
+    <TagLink>[data:hometeam] 52g</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-sogndal-grid</FileName>
+    <TagNumber>128</TagNumber>
+    <TagName>53g</TagName>
+    <TagText>C:\Documents and Settings\Broadcast Pix\My Documents\My Pictures\spelar.png</TagText>
+    <TagLink>[data:hometeam] 53g</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-sogndal-grid</FileName>
+    <TagNumber>129</TagNumber>
+    <TagName>54g</TagName>
+    <TagText>C:\Documents and Settings\Broadcast Pix\My Documents\My Pictures\spelar.png</TagText>
+    <TagLink>[data:hometeam] 54g</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-sogndal-grid</FileName>
+    <TagNumber>130</TagNumber>
+    <TagName>55g</TagName>
+    <TagText>C:\Documents and Settings\Broadcast Pix\My Documents\My Pictures\spelar.png</TagText>
+    <TagLink>[data:hometeam] 55g</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-sogndal-grid</FileName>
+    <TagNumber>131</TagNumber>
+    <TagName>56g</TagName>
+    <TagText>C:\Documents and Settings\Broadcast Pix\My Documents\My Pictures\spelar.png</TagText>
+    <TagLink>[data:hometeam] 56g</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-sogndal-grid</FileName>
+    <TagNumber>132</TagNumber>
+    <TagName>57g</TagName>
+    <TagText>C:\Documents and Settings\Broadcast Pix\My Documents\My Pictures\spelar.png</TagText>
+    <TagLink>[data:hometeam] 57g</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-sogndal-grid</FileName>
+    <TagNumber>133</TagNumber>
+    <TagName>61g</TagName>
+    <TagText>C:\Documents and Settings\Broadcast Pix\My Documents\My Pictures\spelar.png</TagText>
+    <TagLink>[data:hometeam] 61g</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-sogndal-grid</FileName>
+    <TagNumber>134</TagNumber>
+    <TagName>62g</TagName>
+    <TagText>C:\Documents and Settings\Broadcast Pix\My Documents\My Pictures\spelar.png</TagText>
+    <TagLink>[data:hometeam] 62g</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-sogndal-grid</FileName>
+    <TagNumber>135</TagNumber>
+    <TagName>63g</TagName>
+    <TagText>C:\Documents and Settings\Broadcast Pix\My Documents\My Pictures\spelar.png</TagText>
+    <TagLink>[data:hometeam] 63g</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-sogndal-grid</FileName>
+    <TagNumber>136</TagNumber>
+    <TagName>64g</TagName>
+    <TagText>C:\Documents and Settings\Broadcast Pix\My Documents\My Pictures\spelar.png</TagText>
+    <TagLink>[data:hometeam] 64g</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-sogndal-grid</FileName>
+    <TagNumber>137</TagNumber>
+    <TagName>65g</TagName>
+    <TagText>C:\Documents and Settings\Broadcast Pix\My Documents\My Pictures\spelar.png</TagText>
+    <TagLink>[data:hometeam] 65g</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-sogndal-grid</FileName>
+    <TagNumber>138</TagNumber>
+    <TagName>66g</TagName>
+    <TagText>C:\Documents and Settings\Broadcast Pix\My Documents\My Pictures\spelar.png</TagText>
+    <TagLink>[data:hometeam] 66g</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-sogndal-grid</FileName>
+    <TagNumber>139</TagNumber>
+    <TagName>67g</TagName>
+    <TagText>C:\Documents and Settings\Broadcast Pix\My Documents\My Pictures\spelar.png</TagText>
+    <TagLink>[data:hometeam] 67g</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-sogndal-grid</FileName>
+    <TagNumber>140</TagNumber>
+    <TagName>71g</TagName>
+    <TagText>C:\Documents and Settings\Broadcast Pix\My Documents\My Pictures\spelar.png</TagText>
+    <TagLink>[data:hometeam] 71g</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-sogndal-grid</FileName>
+    <TagNumber>141</TagNumber>
+    <TagName>72g</TagName>
+    <TagText>C:\Documents and Settings\Broadcast Pix\My Documents\My Pictures\spelar.png</TagText>
+    <TagLink>[data:hometeam] 72g</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-sogndal-grid</FileName>
+    <TagNumber>142</TagNumber>
+    <TagName>73g</TagName>
+    <TagText>C:\Documents and Settings\Broadcast Pix\My Documents\My Pictures\spelar.png</TagText>
+    <TagLink>[data:hometeam] 73g</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-sogndal-grid</FileName>
+    <TagNumber>143</TagNumber>
+    <TagName>74g</TagName>
+    <TagText>C:\Documents and Settings\Broadcast Pix\My Documents\My Pictures\spelar.png</TagText>
+    <TagLink>[data:hometeam] 74g</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-sogndal-grid</FileName>
+    <TagNumber>144</TagNumber>
+    <TagName>75g</TagName>
+    <TagText>C:\Documents and Settings\Broadcast Pix\My Documents\My Pictures\spelar.png</TagText>
+    <TagLink>[data:hometeam] 75g</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-sogndal-grid</FileName>
+    <TagNumber>145</TagNumber>
+    <TagName>76g</TagName>
+    <TagText>C:\Documents and Settings\Broadcast Pix\My Documents\My Pictures\spelar.png</TagText>
+    <TagLink>[data:hometeam] 76g</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-sogndal-grid</FileName>
+    <TagNumber>146</TagNumber>
+    <TagName>77g</TagName>
+    <TagText>C:\Documents and Settings\Broadcast Pix\My Documents\My Pictures\spelar.png</TagText>
+    <TagLink>[data:hometeam] 77g</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+
+  <TagLinks>
+    <FileName>lagoppstilling-motstander-grid</FileName>
+    <TagNumber>0</TagNumber>
+    <TagName>11n</TagName>
+    <TagText>Dyngeland</TagText>
+    <TagLink>[data:awayteam] 11n</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-motstander-grid</FileName>
+    <TagNumber>1</TagNumber>
+    <TagName>11r</TagName>
+    <TagText>1</TagText>
+    <TagLink>[data:awayteam] 11r</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-motstander-grid</FileName>
+    <TagNumber>2</TagNumber>
+    <TagName>12n</TagName>
+    <TagText>Dyngeland</TagText>
+    <TagLink>[data:awayteam] 12n</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-motstander-grid</FileName>
+    <TagNumber>3</TagNumber>
+    <TagName>12r</TagName>
+    <TagText>1</TagText>
+    <TagLink>[data:awayteam] 12r</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-motstander-grid</FileName>
+    <TagNumber>4</TagNumber>
+    <TagName>13n</TagName>
+    <TagText>Dyngeland</TagText>
+    <TagLink>[data:awayteam] 13n</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-motstander-grid</FileName>
+    <TagNumber>5</TagNumber>
+    <TagName>13r</TagName>
+    <TagText>1</TagText>
+    <TagLink>[data:awayteam] 13r</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-motstander-grid</FileName>
+    <TagNumber>6</TagNumber>
+    <TagName>14n</TagName>
+    <TagText>Dyngeland</TagText>
+    <TagLink>[data:awayteam] 14n</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-motstander-grid</FileName>
+    <TagNumber>7</TagNumber>
+    <TagName>14r</TagName>
+    <TagText>1</TagText>
+    <TagLink>[data:awayteam] 14r</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-motstander-grid</FileName>
+    <TagNumber>8</TagNumber>
+    <TagName>15n</TagName>
+    <TagText>Dyngeland</TagText>
+    <TagLink>[data:awayteam] 15n</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-motstander-grid</FileName>
+    <TagNumber>9</TagNumber>
+    <TagName>15r</TagName>
+    <TagText>1</TagText>
+    <TagLink>[data:awayteam] 15r</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-motstander-grid</FileName>
+    <TagNumber>10</TagNumber>
+    <TagName>16n</TagName>
+    <TagText>Dyngeland</TagText>
+    <TagLink>[data:awayteam] 16n</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-motstander-grid</FileName>
+    <TagNumber>11</TagNumber>
+    <TagName>16r</TagName>
+    <TagText>1</TagText>
+    <TagLink>[data:awayteam] 16r</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-motstander-grid</FileName>
+    <TagNumber>12</TagNumber>
+    <TagName>17n</TagName>
+    <TagText>Dyngeland</TagText>
+    <TagLink>[data:awayteam] 17n</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-motstander-grid</FileName>
+    <TagNumber>13</TagNumber>
+    <TagName>17r</TagName>
+    <TagText>1</TagText>
+    <TagLink>[data:awayteam] 17r</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-motstander-grid</FileName>
+    <TagNumber>14</TagNumber>
+    <TagName>21n</TagName>
+    <TagText>Dyngeland</TagText>
+    <TagLink>[data:awayteam] 21n</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-motstander-grid</FileName>
+    <TagNumber>15</TagNumber>
+    <TagName>21r</TagName>
+    <TagText>1</TagText>
+    <TagLink>[data:awayteam] 21r</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-motstander-grid</FileName>
+    <TagNumber>16</TagNumber>
+    <TagName>22n</TagName>
+    <TagText>Dyngeland</TagText>
+    <TagLink>[data:awayteam] 22n</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-motstander-grid</FileName>
+    <TagNumber>17</TagNumber>
+    <TagName>22r</TagName>
+    <TagText>1</TagText>
+    <TagLink>[data:awayteam] 22r</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-motstander-grid</FileName>
+    <TagNumber>18</TagNumber>
+    <TagName>23n</TagName>
+    <TagText>Dyngeland</TagText>
+    <TagLink>[data:awayteam] 23n</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-motstander-grid</FileName>
+    <TagNumber>19</TagNumber>
+    <TagName>23r</TagName>
+    <TagText>1</TagText>
+    <TagLink>[data:awayteam] 23r</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-motstander-grid</FileName>
+    <TagNumber>20</TagNumber>
+    <TagName>24n</TagName>
+    <TagText>Dyngeland</TagText>
+    <TagLink>[data:awayteam] 24n</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-motstander-grid</FileName>
+    <TagNumber>21</TagNumber>
+    <TagName>24r</TagName>
+    <TagText>1</TagText>
+    <TagLink>[data:awayteam] 24r</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-motstander-grid</FileName>
+    <TagNumber>22</TagNumber>
+    <TagName>25n</TagName>
+    <TagText>Dyngeland</TagText>
+    <TagLink>[data:awayteam] 25n</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-motstander-grid</FileName>
+    <TagNumber>23</TagNumber>
+    <TagName>25r</TagName>
+    <TagText>1</TagText>
+    <TagLink>[data:awayteam] 25r</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-motstander-grid</FileName>
+    <TagNumber>24</TagNumber>
+    <TagName>26n</TagName>
+    <TagText>Dyngeland</TagText>
+    <TagLink>[data:awayteam] 26n</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-motstander-grid</FileName>
+    <TagNumber>25</TagNumber>
+    <TagName>26r</TagName>
+    <TagText>1</TagText>
+    <TagLink>[data:awayteam] 26r</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-motstander-grid</FileName>
+    <TagNumber>26</TagNumber>
+    <TagName>27n</TagName>
+    <TagText>Dyngeland</TagText>
+    <TagLink>[data:awayteam] 27n</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-motstander-grid</FileName>
+    <TagNumber>27</TagNumber>
+    <TagName>27r</TagName>
+    <TagText>1</TagText>
+    <TagLink>[data:awayteam] 27r</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-motstander-grid</FileName>
+    <TagNumber>28</TagNumber>
+    <TagName>31n</TagName>
+    <TagText>Dyngeland</TagText>
+    <TagLink>[data:awayteam] 31n</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-motstander-grid</FileName>
+    <TagNumber>29</TagNumber>
+    <TagName>31r</TagName>
+    <TagText>1</TagText>
+    <TagLink>[data:awayteam] 31r</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-motstander-grid</FileName>
+    <TagNumber>30</TagNumber>
+    <TagName>32n</TagName>
+    <TagText>Dyngeland</TagText>
+    <TagLink>[data:awayteam] 32n</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-motstander-grid</FileName>
+    <TagNumber>31</TagNumber>
+    <TagName>32r</TagName>
+    <TagText>1</TagText>
+    <TagLink>[data:awayteam] 32r</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-motstander-grid</FileName>
+    <TagNumber>32</TagNumber>
+    <TagName>33n</TagName>
+    <TagText>Dyngeland</TagText>
+    <TagLink>[data:awayteam] 33n</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-motstander-grid</FileName>
+    <TagNumber>33</TagNumber>
+    <TagName>33r</TagName>
+    <TagText>1</TagText>
+    <TagLink>[data:awayteam] 33r</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-motstander-grid</FileName>
+    <TagNumber>34</TagNumber>
+    <TagName>34n</TagName>
+    <TagText>Dyngeland</TagText>
+    <TagLink>[data:awayteam] 34n</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-motstander-grid</FileName>
+    <TagNumber>35</TagNumber>
+    <TagName>34r</TagName>
+    <TagText>1</TagText>
+    <TagLink>[data:awayteam] 34r</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-motstander-grid</FileName>
+    <TagNumber>36</TagNumber>
+    <TagName>35n</TagName>
+    <TagText>Dyngeland</TagText>
+    <TagLink>[data:awayteam] 35n</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-motstander-grid</FileName>
+    <TagNumber>37</TagNumber>
+    <TagName>35r</TagName>
+    <TagText>1</TagText>
+    <TagLink>[data:awayteam] 35r</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-motstander-grid</FileName>
+    <TagNumber>38</TagNumber>
+    <TagName>36n</TagName>
+    <TagText>Dyngeland</TagText>
+    <TagLink>[data:awayteam] 36n</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-motstander-grid</FileName>
+    <TagNumber>39</TagNumber>
+    <TagName>36r</TagName>
+    <TagText>1</TagText>
+    <TagLink>[data:awayteam] 36r</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-motstander-grid</FileName>
+    <TagNumber>40</TagNumber>
+    <TagName>37n</TagName>
+    <TagText>Dyngeland</TagText>
+    <TagLink>[data:awayteam] 37n</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-motstander-grid</FileName>
+    <TagNumber>41</TagNumber>
+    <TagName>37r</TagName>
+    <TagText>1</TagText>
+    <TagLink>[data:awayteam] 37r</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-motstander-grid</FileName>
+    <TagNumber>42</TagNumber>
+    <TagName>41n</TagName>
+    <TagText>Dyngeland</TagText>
+    <TagLink>[data:awayteam] 41n</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-motstander-grid</FileName>
+    <TagNumber>43</TagNumber>
+    <TagName>41r</TagName>
+    <TagText>1</TagText>
+    <TagLink>[data:awayteam] 41r</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-motstander-grid</FileName>
+    <TagNumber>44</TagNumber>
+    <TagName>42n</TagName>
+    <TagText>Dyngeland</TagText>
+    <TagLink>[data:awayteam] 42n</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-motstander-grid</FileName>
+    <TagNumber>45</TagNumber>
+    <TagName>42r</TagName>
+    <TagText>1</TagText>
+    <TagLink>[data:awayteam] 42r</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-motstander-grid</FileName>
+    <TagNumber>46</TagNumber>
+    <TagName>43n</TagName>
+    <TagText>Dyngeland</TagText>
+    <TagLink>[data:awayteam] 43n</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-motstander-grid</FileName>
+    <TagNumber>47</TagNumber>
+    <TagName>43r</TagName>
+    <TagText>1</TagText>
+    <TagLink>[data:awayteam] 43r</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-motstander-grid</FileName>
+    <TagNumber>48</TagNumber>
+    <TagName>44n</TagName>
+    <TagText>Dyngeland</TagText>
+    <TagLink>[data:awayteam] 44n</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-motstander-grid</FileName>
+    <TagNumber>49</TagNumber>
+    <TagName>44r</TagName>
+    <TagText>1</TagText>
+    <TagLink>[data:awayteam] 44r</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-motstander-grid</FileName>
+    <TagNumber>50</TagNumber>
+    <TagName>45n</TagName>
+    <TagText>Dyngeland</TagText>
+    <TagLink>[data:awayteam] 45n</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-motstander-grid</FileName>
+    <TagNumber>51</TagNumber>
+    <TagName>45r</TagName>
+    <TagText>1</TagText>
+    <TagLink>[data:awayteam] 45r</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-motstander-grid</FileName>
+    <TagNumber>52</TagNumber>
+    <TagName>46n</TagName>
+    <TagText>Dyngeland</TagText>
+    <TagLink>[data:awayteam] 46n</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-motstander-grid</FileName>
+    <TagNumber>53</TagNumber>
+    <TagName>46r</TagName>
+    <TagText>1</TagText>
+    <TagLink>[data:awayteam] 46r</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-motstander-grid</FileName>
+    <TagNumber>54</TagNumber>
+    <TagName>47n</TagName>
+    <TagText>Dyngeland</TagText>
+    <TagLink>[data:awayteam] 47n</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-motstander-grid</FileName>
+    <TagNumber>55</TagNumber>
+    <TagName>47r</TagName>
+    <TagText>1</TagText>
+    <TagLink>[data:awayteam] 47r</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-motstander-grid</FileName>
+    <TagNumber>56</TagNumber>
+    <TagName>51n</TagName>
+    <TagText>Dyngeland</TagText>
+    <TagLink>[data:awayteam] 51n</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-motstander-grid</FileName>
+    <TagNumber>57</TagNumber>
+    <TagName>51r</TagName>
+    <TagText>1</TagText>
+    <TagLink>[data:awayteam] 51r</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-motstander-grid</FileName>
+    <TagNumber>58</TagNumber>
+    <TagName>52n</TagName>
+    <TagText>Dyngeland</TagText>
+    <TagLink>[data:awayteam] 52n</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-motstander-grid</FileName>
+    <TagNumber>59</TagNumber>
+    <TagName>52r</TagName>
+    <TagText>1</TagText>
+    <TagLink>[data:awayteam] 52r</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-motstander-grid</FileName>
+    <TagNumber>60</TagNumber>
+    <TagName>53n</TagName>
+    <TagText>Dyngeland</TagText>
+    <TagLink>[data:awayteam] 53n</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-motstander-grid</FileName>
+    <TagNumber>61</TagNumber>
+    <TagName>53r</TagName>
+    <TagText>1</TagText>
+    <TagLink>[data:awayteam] 53r</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-motstander-grid</FileName>
+    <TagNumber>62</TagNumber>
+    <TagName>54n</TagName>
+    <TagText>Dyngeland</TagText>
+    <TagLink>[data:awayteam] 54n</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-motstander-grid</FileName>
+    <TagNumber>63</TagNumber>
+    <TagName>54r</TagName>
+    <TagText>1</TagText>
+    <TagLink>[data:awayteam] 54r</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-motstander-grid</FileName>
+    <TagNumber>64</TagNumber>
+    <TagName>55n</TagName>
+    <TagText>Dyngeland</TagText>
+    <TagLink>[data:awayteam] 55n</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-motstander-grid</FileName>
+    <TagNumber>65</TagNumber>
+    <TagName>55r</TagName>
+    <TagText>1</TagText>
+    <TagLink>[data:awayteam] 55r</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-motstander-grid</FileName>
+    <TagNumber>66</TagNumber>
+    <TagName>56n</TagName>
+    <TagText>Dyngeland</TagText>
+    <TagLink>[data:awayteam] 56n</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-motstander-grid</FileName>
+    <TagNumber>67</TagNumber>
+    <TagName>56r</TagName>
+    <TagText>1</TagText>
+    <TagLink>[data:awayteam] 56r</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-motstander-grid</FileName>
+    <TagNumber>68</TagNumber>
+    <TagName>57n</TagName>
+    <TagText>Dyngeland</TagText>
+    <TagLink>[data:awayteam] 57n</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-motstander-grid</FileName>
+    <TagNumber>69</TagNumber>
+    <TagName>57r</TagName>
+    <TagText>1</TagText>
+    <TagLink>[data:awayteam] 57r</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-motstander-grid</FileName>
+    <TagNumber>70</TagNumber>
+    <TagName>61n</TagName>
+    <TagText>Dyngeland</TagText>
+    <TagLink>[data:awayteam] 61n</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-motstander-grid</FileName>
+    <TagNumber>71</TagNumber>
+    <TagName>61r</TagName>
+    <TagText>1</TagText>
+    <TagLink>[data:awayteam] 61r</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-motstander-grid</FileName>
+    <TagNumber>72</TagNumber>
+    <TagName>62n</TagName>
+    <TagText>Dyngeland</TagText>
+    <TagLink>[data:awayteam] 62n</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-motstander-grid</FileName>
+    <TagNumber>73</TagNumber>
+    <TagName>62r</TagName>
+    <TagText>1</TagText>
+    <TagLink>[data:awayteam] 62r</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-motstander-grid</FileName>
+    <TagNumber>74</TagNumber>
+    <TagName>63n</TagName>
+    <TagText>Dyngeland</TagText>
+    <TagLink>[data:awayteam] 63n</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-motstander-grid</FileName>
+    <TagNumber>75</TagNumber>
+    <TagName>63r</TagName>
+    <TagText>1</TagText>
+    <TagLink>[data:awayteam] 63r</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-motstander-grid</FileName>
+    <TagNumber>76</TagNumber>
+    <TagName>64n</TagName>
+    <TagText>Dyngeland</TagText>
+    <TagLink>[data:awayteam] 64n</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-motstander-grid</FileName>
+    <TagNumber>77</TagNumber>
+    <TagName>64r</TagName>
+    <TagText>1</TagText>
+    <TagLink>[data:awayteam] 64r</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-motstander-grid</FileName>
+    <TagNumber>78</TagNumber>
+    <TagName>65n</TagName>
+    <TagText>Dyngeland</TagText>
+    <TagLink>[data:awayteam] 65n</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-motstander-grid</FileName>
+    <TagNumber>79</TagNumber>
+    <TagName>65r</TagName>
+    <TagText>1</TagText>
+    <TagLink>[data:awayteam] 65r</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-motstander-grid</FileName>
+    <TagNumber>80</TagNumber>
+    <TagName>66n</TagName>
+    <TagText>Dyngeland</TagText>
+    <TagLink>[data:awayteam] 66n</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-motstander-grid</FileName>
+    <TagNumber>81</TagNumber>
+    <TagName>66r</TagName>
+    <TagText>1</TagText>
+    <TagLink>[data:awayteam] 66r</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-motstander-grid</FileName>
+    <TagNumber>82</TagNumber>
+    <TagName>67n</TagName>
+    <TagText>Dyngeland</TagText>
+    <TagLink>[data:awayteam] 67n</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-motstander-grid</FileName>
+    <TagNumber>83</TagNumber>
+    <TagName>67r</TagName>
+    <TagText>1</TagText>
+    <TagLink>[data:awayteam] 67r</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-motstander-grid</FileName>
+    <TagNumber>84</TagNumber>
+    <TagName>71n</TagName>
+    <TagText>Dyngeland</TagText>
+    <TagLink>[data:awayteam] 71n</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-motstander-grid</FileName>
+    <TagNumber>85</TagNumber>
+    <TagName>71r</TagName>
+    <TagText>1</TagText>
+    <TagLink>[data:awayteam] 71r</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-motstander-grid</FileName>
+    <TagNumber>86</TagNumber>
+    <TagName>72n</TagName>
+    <TagText>Dyngeland</TagText>
+    <TagLink>[data:awayteam] 72n</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-motstander-grid</FileName>
+    <TagNumber>87</TagNumber>
+    <TagName>72r</TagName>
+    <TagText>1</TagText>
+    <TagLink>[data:awayteam] 72r</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-motstander-grid</FileName>
+    <TagNumber>88</TagNumber>
+    <TagName>73n</TagName>
+    <TagText>Dyngeland</TagText>
+    <TagLink>[data:awayteam] 73n</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-motstander-grid</FileName>
+    <TagNumber>89</TagNumber>
+    <TagName>73r</TagName>
+    <TagText>1</TagText>
+    <TagLink>[data:awayteam] 73r</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-motstander-grid</FileName>
+    <TagNumber>90</TagNumber>
+    <TagName>74n</TagName>
+    <TagText>Dyngeland</TagText>
+    <TagLink>[data:awayteam] 74n</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-motstander-grid</FileName>
+    <TagNumber>91</TagNumber>
+    <TagName>74r</TagName>
+    <TagText>1</TagText>
+    <TagLink>[data:awayteam] 74r</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-motstander-grid</FileName>
+    <TagNumber>92</TagNumber>
+    <TagName>75n</TagName>
+    <TagText>Dyngeland</TagText>
+    <TagLink>[data:awayteam] 75n</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-motstander-grid</FileName>
+    <TagNumber>93</TagNumber>
+    <TagName>75r</TagName>
+    <TagText>1</TagText>
+    <TagLink>[data:awayteam] 75r</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-motstander-grid</FileName>
+    <TagNumber>94</TagNumber>
+    <TagName>76n</TagName>
+    <TagText>Dyngeland</TagText>
+    <TagLink>[data:awayteam] 76n</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-motstander-grid</FileName>
+    <TagNumber>95</TagNumber>
+    <TagName>76r</TagName>
+    <TagText>1</TagText>
+    <TagLink>[data:awayteam] 76r</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-motstander-grid</FileName>
+    <TagNumber>96</TagNumber>
+    <TagName>77n</TagName>
+    <TagText>Dyngeland</TagText>
+    <TagLink>[data:awayteam] 77n</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-motstander-grid</FileName>
+    <TagNumber>97</TagNumber>
+    <TagName>77r</TagName>
+    <TagText>1</TagText>
+    <TagLink>[data:awayteam] 77r</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-motstander-grid</FileName>
+    <TagNumber>98</TagNumber>
+    <TagName>11g</TagName>
+    <TagText>C:\Documents and Settings\Broadcast Pix\My Documents\My Pictures\spelar.png</TagText>
+    <TagLink>[data:awayteam] 11g</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-motstander-grid</FileName>
+    <TagNumber>99</TagNumber>
+    <TagName>12g</TagName>
+    <TagText>C:\Documents and Settings\Broadcast Pix\My Documents\My Pictures\spelar.png</TagText>
+    <TagLink>[data:awayteam] 12g</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-motstander-grid</FileName>
+    <TagNumber>100</TagNumber>
+    <TagName>13g</TagName>
+    <TagText>C:\Documents and Settings\Broadcast Pix\My Documents\My Pictures\spelar.png</TagText>
+    <TagLink>[data:awayteam] 13g</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-motstander-grid</FileName>
+    <TagNumber>101</TagNumber>
+    <TagName>14g</TagName>
+    <TagText>C:\Documents and Settings\Broadcast Pix\My Documents\My Pictures\spelar.png</TagText>
+    <TagLink>[data:awayteam] 14g</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-motstander-grid</FileName>
+    <TagNumber>102</TagNumber>
+    <TagName>15g</TagName>
+    <TagText>C:\Documents and Settings\Broadcast Pix\My Documents\My Pictures\spelar.png</TagText>
+    <TagLink>[data:awayteam] 15g</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-motstander-grid</FileName>
+    <TagNumber>103</TagNumber>
+    <TagName>16g</TagName>
+    <TagText>C:\Documents and Settings\Broadcast Pix\My Documents\My Pictures\spelar.png</TagText>
+    <TagLink>[data:awayteam] 16g</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-motstander-grid</FileName>
+    <TagNumber>104</TagNumber>
+    <TagName>17g</TagName>
+    <TagText>C:\Documents and Settings\Broadcast Pix\My Documents\My Pictures\spelar.png</TagText>
+    <TagLink>[data:awayteam] 17g</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-motstander-grid</FileName>
+    <TagNumber>105</TagNumber>
+    <TagName>21g</TagName>
+    <TagText>C:\Documents and Settings\Broadcast Pix\My Documents\My Pictures\spelar.png</TagText>
+    <TagLink>[data:awayteam] 21g</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-motstander-grid</FileName>
+    <TagNumber>106</TagNumber>
+    <TagName>22g</TagName>
+    <TagText>C:\Documents and Settings\Broadcast Pix\My Documents\My Pictures\spelar.png</TagText>
+    <TagLink>[data:awayteam] 22g</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-motstander-grid</FileName>
+    <TagNumber>107</TagNumber>
+    <TagName>23g</TagName>
+    <TagText>C:\Documents and Settings\Broadcast Pix\My Documents\My Pictures\spelar.png</TagText>
+    <TagLink>[data:awayteam] 23g</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-motstander-grid</FileName>
+    <TagNumber>108</TagNumber>
+    <TagName>24g</TagName>
+    <TagText>C:\Documents and Settings\Broadcast Pix\My Documents\My Pictures\spelar.png</TagText>
+    <TagLink>[data:awayteam] 24g</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-motstander-grid</FileName>
+    <TagNumber>109</TagNumber>
+    <TagName>25g</TagName>
+    <TagText>C:\Documents and Settings\Broadcast Pix\My Documents\My Pictures\spelar.png</TagText>
+    <TagLink>[data:awayteam] 25g</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-motstander-grid</FileName>
+    <TagNumber>110</TagNumber>
+    <TagName>26g</TagName>
+    <TagText>C:\Documents and Settings\Broadcast Pix\My Documents\My Pictures\spelar.png</TagText>
+    <TagLink>[data:awayteam] 26g</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-motstander-grid</FileName>
+    <TagNumber>111</TagNumber>
+    <TagName>27g</TagName>
+    <TagText>C:\Documents and Settings\Broadcast Pix\My Documents\My Pictures\spelar.png</TagText>
+    <TagLink>[data:awayteam] 27g</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-motstander-grid</FileName>
+    <TagNumber>112</TagNumber>
+    <TagName>31g</TagName>
+    <TagText>C:\Documents and Settings\Broadcast Pix\My Documents\My Pictures\spelar.png</TagText>
+    <TagLink>[data:awayteam] 31g</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-motstander-grid</FileName>
+    <TagNumber>113</TagNumber>
+    <TagName>32g</TagName>
+    <TagText>C:\Documents and Settings\Broadcast Pix\My Documents\My Pictures\spelar.png</TagText>
+    <TagLink>[data:awayteam] 32g</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-motstander-grid</FileName>
+    <TagNumber>114</TagNumber>
+    <TagName>33g</TagName>
+    <TagText>C:\Documents and Settings\Broadcast Pix\My Documents\My Pictures\spelar.png</TagText>
+    <TagLink>[data:awayteam] 33g</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-motstander-grid</FileName>
+    <TagNumber>115</TagNumber>
+    <TagName>34g</TagName>
+    <TagText>C:\Documents and Settings\Broadcast Pix\My Documents\My Pictures\spelar.png</TagText>
+    <TagLink>[data:awayteam] 34g</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-motstander-grid</FileName>
+    <TagNumber>116</TagNumber>
+    <TagName>35g</TagName>
+    <TagText>C:\Documents and Settings\Broadcast Pix\My Documents\My Pictures\spelar.png</TagText>
+    <TagLink>[data:awayteam] 35g</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-motstander-grid</FileName>
+    <TagNumber>117</TagNumber>
+    <TagName>36g</TagName>
+    <TagText>C:\Documents and Settings\Broadcast Pix\My Documents\My Pictures\spelar.png</TagText>
+    <TagLink>[data:awayteam] 36g</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-motstander-grid</FileName>
+    <TagNumber>118</TagNumber>
+    <TagName>37g</TagName>
+    <TagText>C:\Documents and Settings\Broadcast Pix\My Documents\My Pictures\spelar.png</TagText>
+    <TagLink>[data:awayteam] 37g</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-motstander-grid</FileName>
+    <TagNumber>119</TagNumber>
+    <TagName>41g</TagName>
+    <TagText>C:\Documents and Settings\Broadcast Pix\My Documents\My Pictures\spelar.png</TagText>
+    <TagLink>[data:awayteam] 41g</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-motstander-grid</FileName>
+    <TagNumber>120</TagNumber>
+    <TagName>42g</TagName>
+    <TagText>C:\Documents and Settings\Broadcast Pix\My Documents\My Pictures\spelar.png</TagText>
+    <TagLink>[data:awayteam] 42g</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-motstander-grid</FileName>
+    <TagNumber>121</TagNumber>
+    <TagName>43g</TagName>
+    <TagText>C:\Documents and Settings\Broadcast Pix\My Documents\My Pictures\spelar.png</TagText>
+    <TagLink>[data:awayteam] 43g</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-motstander-grid</FileName>
+    <TagNumber>122</TagNumber>
+    <TagName>44g</TagName>
+    <TagText>C:\Documents and Settings\Broadcast Pix\My Documents\My Pictures\spelar.png</TagText>
+    <TagLink>[data:awayteam] 44g</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-motstander-grid</FileName>
+    <TagNumber>123</TagNumber>
+    <TagName>45g</TagName>
+    <TagText>C:\Documents and Settings\Broadcast Pix\My Documents\My Pictures\spelar.png</TagText>
+    <TagLink>[data:awayteam] 45g</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-motstander-grid</FileName>
+    <TagNumber>124</TagNumber>
+    <TagName>46g</TagName>
+    <TagText>C:\Documents and Settings\Broadcast Pix\My Documents\My Pictures\spelar.png</TagText>
+    <TagLink>[data:awayteam] 46g</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-motstander-grid</FileName>
+    <TagNumber>125</TagNumber>
+    <TagName>47g</TagName>
+    <TagText>C:\Documents and Settings\Broadcast Pix\My Documents\My Pictures\spelar.png</TagText>
+    <TagLink>[data:awayteam] 47g</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-motstander-grid</FileName>
+    <TagNumber>126</TagNumber>
+    <TagName>51g</TagName>
+    <TagText>C:\Documents and Settings\Broadcast Pix\My Documents\My Pictures\spelar.png</TagText>
+    <TagLink>[data:awayteam] 51g</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-motstander-grid</FileName>
+    <TagNumber>127</TagNumber>
+    <TagName>52g</TagName>
+    <TagText>C:\Documents and Settings\Broadcast Pix\My Documents\My Pictures\spelar.png</TagText>
+    <TagLink>[data:awayteam] 52g</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-motstander-grid</FileName>
+    <TagNumber>128</TagNumber>
+    <TagName>53g</TagName>
+    <TagText>C:\Documents and Settings\Broadcast Pix\My Documents\My Pictures\spelar.png</TagText>
+    <TagLink>[data:awayteam] 53g</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-motstander-grid</FileName>
+    <TagNumber>129</TagNumber>
+    <TagName>54g</TagName>
+    <TagText>C:\Documents and Settings\Broadcast Pix\My Documents\My Pictures\spelar.png</TagText>
+    <TagLink>[data:awayteam] 54g</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-motstander-grid</FileName>
+    <TagNumber>130</TagNumber>
+    <TagName>55g</TagName>
+    <TagText>C:\Documents and Settings\Broadcast Pix\My Documents\My Pictures\spelar.png</TagText>
+    <TagLink>[data:awayteam] 55g</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-motstander-grid</FileName>
+    <TagNumber>131</TagNumber>
+    <TagName>56g</TagName>
+    <TagText>C:\Documents and Settings\Broadcast Pix\My Documents\My Pictures\spelar.png</TagText>
+    <TagLink>[data:awayteam] 56g</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-motstander-grid</FileName>
+    <TagNumber>132</TagNumber>
+    <TagName>57g</TagName>
+    <TagText>C:\Documents and Settings\Broadcast Pix\My Documents\My Pictures\spelar.png</TagText>
+    <TagLink>[data:awayteam] 57g</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-motstander-grid</FileName>
+    <TagNumber>133</TagNumber>
+    <TagName>61g</TagName>
+    <TagText>C:\Documents and Settings\Broadcast Pix\My Documents\My Pictures\spelar.png</TagText>
+    <TagLink>[data:awayteam] 61g</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-motstander-grid</FileName>
+    <TagNumber>134</TagNumber>
+    <TagName>62g</TagName>
+    <TagText>C:\Documents and Settings\Broadcast Pix\My Documents\My Pictures\spelar.png</TagText>
+    <TagLink>[data:awayteam] 62g</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-motstander-grid</FileName>
+    <TagNumber>135</TagNumber>
+    <TagName>63g</TagName>
+    <TagText>C:\Documents and Settings\Broadcast Pix\My Documents\My Pictures\spelar.png</TagText>
+    <TagLink>[data:awayteam] 63g</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-motstander-grid</FileName>
+    <TagNumber>136</TagNumber>
+    <TagName>64g</TagName>
+    <TagText>C:\Documents and Settings\Broadcast Pix\My Documents\My Pictures\spelar.png</TagText>
+    <TagLink>[data:awayteam] 64g</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-motstander-grid</FileName>
+    <TagNumber>137</TagNumber>
+    <TagName>65g</TagName>
+    <TagText>C:\Documents and Settings\Broadcast Pix\My Documents\My Pictures\spelar.png</TagText>
+    <TagLink>[data:awayteam] 65g</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-motstander-grid</FileName>
+    <TagNumber>138</TagNumber>
+    <TagName>66g</TagName>
+    <TagText>C:\Documents and Settings\Broadcast Pix\My Documents\My Pictures\spelar.png</TagText>
+    <TagLink>[data:awayteam] 66g</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-motstander-grid</FileName>
+    <TagNumber>139</TagNumber>
+    <TagName>67g</TagName>
+    <TagText>C:\Documents and Settings\Broadcast Pix\My Documents\My Pictures\spelar.png</TagText>
+    <TagLink>[data:awayteam] 67g</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-motstander-grid</FileName>
+    <TagNumber>140</TagNumber>
+    <TagName>71g</TagName>
+    <TagText>C:\Documents and Settings\Broadcast Pix\My Documents\My Pictures\spelar.png</TagText>
+    <TagLink>[data:awayteam] 71g</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-motstander-grid</FileName>
+    <TagNumber>141</TagNumber>
+    <TagName>72g</TagName>
+    <TagText>C:\Documents and Settings\Broadcast Pix\My Documents\My Pictures\spelar.png</TagText>
+    <TagLink>[data:awayteam] 72g</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-motstander-grid</FileName>
+    <TagNumber>142</TagNumber>
+    <TagName>73g</TagName>
+    <TagText>C:\Documents and Settings\Broadcast Pix\My Documents\My Pictures\spelar.png</TagText>
+    <TagLink>[data:awayteam] 73g</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-motstander-grid</FileName>
+    <TagNumber>143</TagNumber>
+    <TagName>74g</TagName>
+    <TagText>C:\Documents and Settings\Broadcast Pix\My Documents\My Pictures\spelar.png</TagText>
+    <TagLink>[data:awayteam] 74g</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-motstander-grid</FileName>
+    <TagNumber>144</TagNumber>
+    <TagName>75g</TagName>
+    <TagText>C:\Documents and Settings\Broadcast Pix\My Documents\My Pictures\spelar.png</TagText>
+    <TagLink>[data:awayteam] 75g</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-motstander-grid</FileName>
+    <TagNumber>145</TagNumber>
+    <TagName>76g</TagName>
+    <TagText>C:\Documents and Settings\Broadcast Pix\My Documents\My Pictures\spelar.png</TagText>
+    <TagLink>[data:awayteam] 76g</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+  <TagLinks>
+    <FileName>lagoppstilling-motstander-grid</FileName>
+    <TagNumber>146</TagNumber>
+    <TagName>77g</TagName>
+    <TagText>C:\Documents and Settings\Broadcast Pix\My Documents\My Pictures\spelar.png</TagText>
+    <TagLink>[data:awayteam] 77g</TagLink>
+    <Changed>false</Changed>
+  </TagLinks>
+
+  
+  <RssState>
+    <AutoPlayTimer>2</AutoPlayTimer>
+    <AutoPlayOn>true</AutoPlayOn>
+  </RssState>
+  <RssUrlsList>
+    <RssURLs />
+    <Selected>true</Selected>
+    <ActiveItem>0</ActiveItem>
+  </RssUrlsList>
+  <RssItemsList>
+    <Title>Molde - Bodø/Glimt</Title>
+    <Date>0001-01-01T00:00:00+01:00</Date>
+    <Link>Unresolvable</Link>
+    <Description>2 - 1 H: Gulbrandsen ('12) Singh ('79)  B: Laajab ('49) </Description>
+  </RssItemsList>
+  <RssItemsList>
+    <Title>Liverpool - Everton</Title>
+    <Date>0001-01-01T00:00:00+01:00</Date>
+    <Link>Unresolvable</Link>
+    <Description>1 - 1 H: Gerrard ('65)  B: Jagielka ('90) </Description>
+  </RssItemsList>
+  <RssItemsList>
+    <Title>Sunderland - Swansea</Title>
+    <Date>0001-01-01T00:00:00+01:00</Date>
+    <Link>Unresolvable</Link>
+    <Description>0 - 0</Description>
+  </RssItemsList>
+  <RssItemsList>
+    <Title>Chelsea - Aston Villa</Title>
+    <Date>0001-01-01T00:00:00+01:00</Date>
+    <Link>Unresolvable</Link>
+    <Description>3 - 0 H: Oscar ('7) Diego Costa ('59) Willian ('79) </Description>
+  </RssItemsList>
+  <RssItemsList>
+    <Title>Crystal Palace - Leicester</Title>
+    <Date>0001-01-01T00:00:00+01:00</Date>
+    <Link>Unresolvable</Link>
+    <Description>2 - 0 H: Campbell ('51) Jedinak ('54) </Description>
+  </RssItemsList>
+  <RssItemsList>
+    <Title>Hull - Man. City</Title>
+    <Date>0001-01-01T00:00:00+01:00</Date>
+    <Link>Unresolvable</Link>
+    <Description>2 - 4</Description>
+  </RssItemsList>
+  <RssItemsList>
+    <Title>Man. United - West Ham</Title>
+    <Date>0001-01-01T00:00:00+01:00</Date>
+    <Link>Unresolvable</Link>
+    <Description>2 - 1 H: Rooney ('5) van Persie ('22)  B: Sakho ('37) </Description>
+  </RssItemsList>
+  <RssItemsList>
+    <Title>Southampton - QPR</Title>
+    <Date>0001-01-01T00:00:00+01:00</Date>
+    <Link>Unresolvable</Link>
+    <Description>2 - 1 H: Bertrand ('54) Pellè ('68)  B: Austin ('66) </Description>
+  </RssItemsList>
+  <RssItemsList>
+    <Title>Brentford - Leeds</Title>
+    <Date>0001-01-01T00:00:00+01:00</Date>
+    <Link>Unresolvable</Link>
+    <Description>2 - 0 H: Jota ('45) McCormack ('77) </Description>
+  </RssItemsList>
+</BinList>
